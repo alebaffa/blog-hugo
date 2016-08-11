@@ -4,7 +4,7 @@ date = "2016-05-16T21:04:53+02:00"
 description = ""
 keywords = ["golang"]
 title = "First try with concurrency in Go"
-
+tags = ["Golang"]
 +++
 
 It's been a while I'm practicing with Go, but I had still never tried its concurrency features so far. My bad.
