@@ -1,13 +1,14 @@
 baseurl = "https://alebaffa.github.io/"
-title = "mytitle"
+title = "Crafting (not only) Code"
 theme = "ghostwriter"
-languageCode = "en-us"
-copyright = "My Name"
+languageCode = "en-EN"
+copyright = "(c) 2015 Alessandro Baffa."
 googleAnalytics = "XXX"
-disqusShortname = "XXX"
+disqusShortname = "alebaffa"
+highlight = "monokai_sublime"
 
 [Author]
-    name = "My Name"
+    name = "Alessandro Baffa"
     profile = "https://google.com/+XXX"
 
 [Taxonomies]
@@ -15,16 +16,16 @@ disqusShortname = "XXX"
 
 [Params]
     intro = true
-    headline = "My headline"
-    description = "My description"
-    github = "https://github.com/XXX"
-    linkedin = "https://linkedin.com/in/XXX/"
-    gplus = "https://google.com/+XXX"
-    twitter = "https://twitter.com/XXX"
-    stackoverflow = "http://stackoverflow.com/users/XXX/YYY"
+    headline = "Crafting (not only) Code"
+    description = "alebaffa's blog"
+    github = "https://github.com/alebaffa"
+    linkedin = "https://linkedin.com/in/alessandrobaffa/"
+    gplus = "https://google.com/+AlessandroBaffa"
+    twitter = "https://twitter.com/alebaffa"
+    # stackoverflow = "http://stackoverflow.com/users/XXX/YYY"
 
 [Permalinks]
-    post = "/:year/:month/:day/:filename/"
+    post = "/:year/:month/:day/:title/"
 
 [[menu.main]]
     name = "Blog"
@@ -40,8 +41,3 @@ disqusShortname = "XXX"
     name = "Contact"
     url = "/page/contact/"
     weight = 3
-
-[[menu.main]]
-    name = "About"
-    url = "/page/about/"
-    weight = 4
