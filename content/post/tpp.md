@@ -52,6 +52,7 @@ At this point the repetition is really visible. A lot of while statements doing 
 ## Conclusion
 The Transformation Priority Premise is really helpful. It’s a handy list of changes that you can apply easily and with no damage every time you are stuck or you don’t know how to make your code more generic.
 
+# Title
 I am going to do again some code kata I already done using this technique.
 
 If you’re curious, you can see all the steps I’ve done in my implementation on [Github](https://github.com/alebaffa/codekata/commits/master/src).
