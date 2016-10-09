@@ -1,5 +1,5 @@
 baseurl = "http://alessandrobaffa.com/"
-title = "Crafting (not only) Code"
+title = "alebaffa's"
 theme = "ghostwriter"
 languageCode = "en-EN"
 copyright = "(c) 2015 Alessandro Baffa."
@@ -16,8 +16,8 @@ highlight = "monokai_sublime"
 
 [Params]
     intro = true
-    headline = "Crafting (not only) Code"
-    description = "alebaffa's blog"
+    headline = "alebaffa's"
+    description = "Personal learning log"
     github = "https://github.com/alebaffa"
     linkedin = "https://linkedin.com/in/alessandrobaffa/"
     gplus = "https://google.com/+AlessandroBaffa"
