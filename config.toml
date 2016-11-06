@@ -16,7 +16,7 @@ highlight = "monokai_sublime"
 
 [Params]
     intro = true
-    headline = "alebaffa's"
+    headline = "alebaffa.github.io"
     description = "Personal learning log"
     github = "https://github.com/alebaffa"
     linkedin = "https://linkedin.com/in/alessandrobaffa/"
