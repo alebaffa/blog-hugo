@@ -1,5 +1,5 @@
 baseurl = "https://alebaffa.github.io/"
-title = "alebaffa's"
+title = "Welcome"
 theme = "ghostwriter"
 languageCode = "en-EN"
 copyright = "(c) 2015 Alessandro Baffa."
@@ -16,13 +16,14 @@ highlight = "monokai_sublime"
 
 [Params]
     intro = true
-    headline = "alebaffa.github.io"
+    headline = "Alessandro Baffa"
     description = "Personal learning log"
     github = "https://github.com/alebaffa"
     linkedin = "https://linkedin.com/in/alessandrobaffa/"
     gplus = "https://google.com/+AlessandroBaffa"
     twitter = "https://twitter.com/alebaffa"
     # stackoverflow = "http://stackoverflow.com/users/XXX/YYY"
+    powered_by = false
 
 [Permalinks]
     post = "/:year/:month/:day/:title/"
