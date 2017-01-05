@@ -1,6 +1,6 @@
 baseurl = "https://alebaffa.github.io/"
 title = "Welcome"
-theme = "ghostwriter"
+theme = "after-dark"
 languageCode = "en-EN"
 copyright = "(c) 2015 Alessandro Baffa."
 googleAnalytics = "XXX"
