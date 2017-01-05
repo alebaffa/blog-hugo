@@ -5,11 +5,16 @@ subtitle: Why you'd want to go on a date with me
 menu : main
 
 ---
-<img src="../../img/me.jpg" alt="alebaffa" style="width: 300px; float: left; margin-right: 20px"/> Hi, my name is **Alessandro Baffa**, I am an Italian Software Engineer and Developer Advocate currently working at [Amadeus IT Group](http://www.amadeus.com), in South France. More info on [LinkedIn](https://www.linkedin.com/in/alessandrobaffa).
+<img src="../../img/me.jpg" alt="alebaffa" style="width: 300px; float: left; margin-right: 20px"/> **Alessandro Baffa**
 
-I am a strong advocate of clean code and doing always the best you can. I am also firmly convinced that a good professional should never stop learning, and so I do.
+<span style="background-color:#e80918; color: white">Software Engineer</span> --> [LinkedIn](https://www.linkedin.com/in/alessandrobaffa).
 
-I love helping people. I love organizing activities and creating stuff that is useful for the community.
-I am also learning how to motivate people and how to drive changes, and I'm loving it.
+Strong advocate of <span style="background-color:#7ef7ed; color: black">clean code</span>, <span style="background-color:#f77ed9; color: black">testing</span>, <span style="background-color:#c63717; color: white">quality</span>, <span style="background-color:#17c629; color: white">continuous learning</span> and <span style="background-color:#1723c6; color: white">continuous improvement</span>. 
 
-This blog contains my personal thoughts about what I'm learning.
+I love <span style="background-color:#09a8e8; color: white">to organize</span> learning activities and helping others to improve their skills.
+
+I am good at <span style="background-color:#e8d109; color: black">motivating people</span>.
+
+I am a <span style="background-color:#e83209; color: white">photography enthusiast</span> --> [Flickr](https://www.flickr.com/photos/alebaffa/).
+
+This blog contains my personal thoughts about things that I learn.

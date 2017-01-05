@@ -37,8 +37,3 @@ highlight = "monokai_sublime"
     name = "Projects"
     url = "/project/"
     weight = 2
-
-[[menu.main]]
-    name = "Contact"
-    url = "/page/contact/"
-    weight = 3
