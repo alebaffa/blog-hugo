@@ -30,11 +30,6 @@ highlight = "monokai_sublime"
     post = "/:year/:month/:day/:title/"
 
 [[menu.main]]
-    name = "Blog"
-    url = "/post/"
-    weight = 1
-
-[[menu.main]]
     name = "Projects"
     url = "/project/"
     weight = 2
