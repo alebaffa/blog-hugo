@@ -1,4 +1,4 @@
-baseurl = "http://www.alessandrobaffa.com"
+baseurl = "http://alessandrobaffa.com/"
 title = "Welcome"
 theme = "ghostwriter"
 languageCode = "en-EN"
@@ -16,6 +16,7 @@ highlight = "monokai_sublime"
 
 [Params]
     intro = true
+    avatar = "speaker-small.jpg"
     headline = "Alessandro Baffa"
     description = "Personal learning log"
     github = "https://github.com/alebaffa"
@@ -30,7 +31,7 @@ highlight = "monokai_sublime"
 
 [[menu.main]]
     name = "Blog"
-    url = "/"
+    url = "/post/"
     weight = 1
 
 [[menu.main]]
