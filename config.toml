@@ -15,10 +15,11 @@ highlight = "monokai_sublime"
     tag = "tags"
 
 [Params]
+    title = "blog"
     intro = true
     avatar = "speaker-small.jpg"
-    headline = "Alessandro Baffa"
-    description = "Personal learning log"
+    headline = "Chronicle of a Software Engineer"
+    description = "Alessandro Baffa's blog"
     github = "https://github.com/alebaffa"
     linkedin = "https://linkedin.com/in/alessandrobaffa/"
     gplus = "https://google.com/+AlessandroBaffa"

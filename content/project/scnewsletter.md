@@ -1,6 +1,6 @@
 +++
 title = "Software Craftsmanship Newsletter // Editor and creator"
-description = "Monthly collection of interesting links for Professional Software Developers"
+description = "Monthly collection of interesting links for Professional Software Developers. More than 700 people registered."
 +++
 
 ## About project
