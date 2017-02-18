@@ -9,7 +9,7 @@ highlight = "monokai_sublime"
 
 [Author]
     name = "Alessandro Baffa"
-    profile = "https://google.com/+XXX"
+    profile = "https://twitter.com/alebaffa"
 
 [Taxonomies]
     tag = "tags"
@@ -18,8 +18,7 @@ highlight = "monokai_sublime"
     title = "blog"
     intro = true
     avatar = "speaker-small.jpg"
-    headline = "chronicles of a Software Engineer"
-    description = "Alessandro Baffa's blog"
+    headline = "alebaffa's blog"
     github = "https://github.com/alebaffa"
     linkedin = "https://linkedin.com/in/alessandrobaffa/"
     gplus = "https://google.com/+AlessandroBaffa"
