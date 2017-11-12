@@ -1,10 +1,8 @@
----
-layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
-menu : main
-
----
++++
+title = "About"
+author = "My Name"
+description = "Things about me."
++++
 <img src="../../img/me.jpg" alt="alebaffa" style="width: 300px; float: left; margin-right: 20px; margin-bottom: 1px"/> **Alessandro Baffa**
 
 [Software Engineer](https://www.linkedin.com/in/alessandrobaffa), strong advocate of **clean code**, **testing**, **quality**, **continuous learning** and **continuous improvement**. 

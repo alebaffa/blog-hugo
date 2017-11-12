@@ -1,4 +1,4 @@
-baseurl = "http://alessandrobaffa.com/"
+baseurl = "https://alebaffa.com/"
 title = "Welcome"
 theme = "ghostwriter"
 languageCode = "en-EN"
@@ -33,3 +33,8 @@ highlight = "monokai_sublime"
     name = "Projects"
     url = "/project/"
     weight = 2
+
+[[menu.main]]
+    name = "About"
+    url = "/page/about/"
+    weight = 3
