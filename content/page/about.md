@@ -11,3 +11,5 @@ I am a geek. I love all kind of technology and learn new stuff every day. I am c
 I am also a photography enthusiast. I like wedding and landscape photography. I post my photos on [Flickr](https://www.flickr.com/photos/alebaffa/). 
 
 I use heavily [Twitter](https://twitter.com/alebaffa).
+
+This blog contains my personal thoughts and opinions about things that I learn.
