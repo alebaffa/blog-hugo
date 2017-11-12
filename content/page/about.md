@@ -1,5 +1,5 @@
 +++
-title = "今日は"
+title = "今日は - hello!"
 author = "alebaffa"
 +++
 <img src="../../img/me.jpg" alt="alebaffa" style="width: 300px; float: left; margin-right: 20px; margin-bottom: 1px"/>

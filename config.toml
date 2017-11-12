@@ -1,5 +1,4 @@
 baseurl = "https://alebaffa.com/"
-# baseurl = "http://localhost:1313"
 title = "Welcome"
 theme = "ghostwriter"
 languageCode = "en-EN"
