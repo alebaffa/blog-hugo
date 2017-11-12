@@ -1,16 +1,13 @@
 +++
-title = "About"
-author = "My Name"
-description = "Things about me."
+title = "今日は"
+author = "alebaffa"
 +++
-<img src="../../img/me.jpg" alt="alebaffa" style="width: 300px; float: left; margin-right: 20px; margin-bottom: 1px"/> **Alessandro Baffa**
+<img src="../../img/me.jpg" alt="alebaffa" style="width: 300px; float: left; margin-right: 20px; margin-bottom: 1px"/>
 
-[Software Engineer](https://www.linkedin.com/in/alessandrobaffa), strong advocate of **clean code**, **testing**, **quality**, **continuous learning** and **continuous improvement**. 
+I am a Full Stack Engineer living in Tokyo. More on [LinkedIn](https://www.linkedin.com/in/alessandrobaffa).
 
-If you are curious to see what I am working on and what I am learning at the moment, check out my projects on [Github](https://github.com/alebaffa).
+I am a geek. I love all kind of technology and learn new stuff every day. I am currently particularly interested in Machine/Deep Learning, Data Science, IoT and DevOps.
 
-I love to **organize** learning activities and **helping others** to improve their skills. I am also good at **motivating people**. I am a proactive and energetic person.
+I am also a photography enthusiast. I like wedding and landscape photography. I post my photos on [Flickr](https://www.flickr.com/photos/alebaffa/). 
 
-I am a **photography enthusiast** --> [Flickr](https://www.flickr.com/photos/alebaffa/). You can also find me on [Twitter](https://twitter.com/alebaffa).
-
-This blog contains my personal thoughts about things that I learn.
+I use heavily [Twitter](https://twitter.com/alebaffa).
