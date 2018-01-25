@@ -1,5 +1,5 @@
 +++
-title = "What I've been doing in the last months"
+title = "My current learning journey"
 description = ""
 author = ""
 tags = ["personal"]
