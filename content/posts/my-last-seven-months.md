@@ -53,5 +53,10 @@ I am trying to gently introduce good practices with my teammates. The cultural d
 
 I share links and engage with them in discussions in the pull requests.
 
+## Non technical stuff
+I am part of the Mindfulness Network group at Rakuten now. I love mindfulness and meditation and I would like to help this network to group internally. It's so much important. I don't meditate every day as I wish, but I try to do it quite frequently. 
+
+I am learning Japanese, my fourth spoken language. I am studying a lot and I'm planning to take the proficency certification (JLPT 4) in July 2018. I am not able to have a conversation with anyone for the moment, even though I can feel my listening is improving little by little. 
+
 ## More soon...
 I want to keep writing more often on this blog, to give you more details about all the cool stuff listed here. There are lots of cool stuff I'm learning everyday and here it's the best place to keep track of them.
