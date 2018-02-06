@@ -2,7 +2,7 @@
 title = "Riviera Software Craftsmanship Meetup // Co-organizer"
 description = "The local meetup in South France about Software Craftsmanship"
 date = "2017-01-06T12:53:04+01:00"
-
+type = "project"
 +++
 ## About project
 

@@ -5,7 +5,7 @@ categories = ["personal"]
 author = "alebaffa"
 description = "I am moving to Japan after 7 years in France"
 title = "Changing Everything. Again."
-
+type= "post"
 +++
 
 After 7 years spent in France I am officially moving to Tokyo, Japan, end of May 2017. 

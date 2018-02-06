@@ -5,7 +5,7 @@ author = "alebaffa"
 tags = [
 ]
 date = "2016-10-09T21:17:23+02:00"
-
+type= "post"
 +++
 
 The TextConverter exercise (in the _Racing_ _Car_ _kata_ suite) is a very interesting exercise for refactoring legacy code. As I am reading _Working Effectively with Legacy Code_ I found two ways of solving it.

@@ -4,6 +4,7 @@ title = "Raising The Bar With Science"
 description = ""
 author = "alebaffa"
 date = "2016-11-06T17:46:50+01:00"
+type= "post"
 
 +++
 

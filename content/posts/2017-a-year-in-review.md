@@ -1,7 +1,8 @@
----
-title: "2017: A Year in Review"
-date: "2017-12-07T20:00:10+09:00"
----
++++
+title = "2017: A Year in Review"
+date = "2017-12-07T20:00:10+09:00"
+type = "post"
++++
 
 It's almost the end of the year and, as always, it's time to stop for a moment and look back.
 These first 6 months in Tokyo have been a mix of joy and struggle. I am finally living a _kind of_ normal life with my wife and it's fantastic, of course. We are making up for lost time and we're having a lot of fun together. I lost the count of how many hours we spent at karaoke or how many times we ate sushi at our favorite place in Shinjuku. We are simply enjoying staying together, in a city that never sleeps and offers so much to do. That's what I love here: there are countless of events every week. For whatever your passion is, being it technology or culture or cooking, you will find an event in Tokyo. Another thing I love of this crazy place is the kind people you meet here. You must have a particular motivation to move to Japan, this place is far, geographically and culturally. So when you meet a new person it's very likely you will discuss about fascinating hobbies or crazy life experiences.

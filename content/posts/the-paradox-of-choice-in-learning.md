@@ -4,6 +4,7 @@ date = "2016-05-16T15:37:25+02:00"
 description = ""
 keywords = ["professionalism", "learning"]
 title = "The Paradox Of Choice In Learning to Code"
+type= "post"
 
 +++
 

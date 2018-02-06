@@ -4,7 +4,7 @@ date = "2016-08-06T12:29:46+02:00"
 description = ""
 tags = ["craftsmanship", "personal"]
 title = "How Can You Say You’re A Software Crafts(wo)man?"
-
+type= "post"
 +++
 
 This is a question that came up yesterday during our latest meetup with our local [French Riviera Software Craftsmanship Community](http://www.meetup.com/French-Riviera-Software-Craftsmanship-Community) (note: a very nice round table session [on the beach](http://www.meetup.com/French-Riviera-Software-Craftsmanship-Community/events/232721703/) of Juan Les Pins ). 

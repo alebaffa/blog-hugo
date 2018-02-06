@@ -4,7 +4,7 @@ date = "2016-03-31T06:56:10+02:00"
 description = "Bad things happen when you don't take care of the capacity of the slice"
 keywords = ["golang", "slices"]
 title = "Be careful with slice"
-
+type= "post"
 +++
 
 [Slices](https://blog.golang.org/slices) are a great tool in Go, but sometimes they can be confused with arrays.

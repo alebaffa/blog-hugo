@@ -5,6 +5,7 @@ description = ""
 keywords = ["golang"]
 title = "First try with concurrency in Go"
 tags = ["Golang"]
+type= "post"
 +++
 
 It's been a while I'm practicing with Go, but I had still never tried its concurrency features so far. My bad.

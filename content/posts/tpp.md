@@ -4,6 +4,8 @@ date = "2016-07-05T21:29:11+02:00"
 description = ""
 tags = ["software-craftsmanship"]
 title = "Transformation Priority Premise: overcome the fear of new tests"
+type= "post"
+
 +++
 
 [The Transformation Priority Premise](https://blog.8thlight.com/uncle-bob/2013/05/27/TheTransformationPriorityPremise.html) (TPP) is a great empirical list of transformations that you can apply in your code when you’re working in TDD:

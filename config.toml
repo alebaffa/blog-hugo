@@ -1,10 +1,8 @@
 baseurl = "https://alebaffa.com/"
 title = "Welcome"
 theme = "ghostwriter"
-languageCode = "en-EN"
 copyright = "(c) 2015 Alessandro Baffa."
 googleAnalytics = "XXX"
-disqusShortname = "alebaffa"
 highlight = "monokai_sublime"
 
 [Author]
@@ -18,16 +16,26 @@ highlight = "monokai_sublime"
     title = "blog"
     intro = true
     avatar = "speaker-small.jpg"
-    headline = "アレバッファ - alebaffa"
+    headline = "~/alebaffa/weblog"
     github = "https://github.com/alebaffa"
     linkedin = "https://linkedin.com/in/alessandrobaffa/"
     gplus = "https://google.com/+AlessandroBaffa"
     twitter = "https://twitter.com/alebaffa"
     # stackoverflow = "http://stackoverflow.com/users/XXX/YYY"
-    powered_by = false
+    shareTwitter = true
+    shareFacebook = true
+    shareGooglePlus = true
+    shareLinkedIn = false
+    powered_by = true
+    dateFormat = "Mon, Jan 2, 2006"
 
 [Permalinks]
-    post = "/:year/:month/:day/:title/"
+    post = "/:year/:month/:day/:filename/"
+
+[[menu.main]]
+    name = "Blog"
+    url = "/"
+    weight = 1
 
 [[menu.main]]
     name = "Projects"

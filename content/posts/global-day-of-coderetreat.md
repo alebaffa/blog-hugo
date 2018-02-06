@@ -4,7 +4,7 @@ date = "2016-10-23T12:29:46+02:00"
 description = ""
 tags = ["craftsmanship", "coderetreat"]
 title = "Global Day of Coderetreat 2016, Sophia Antipolis, France"
-
+type= "post"
 +++
 <img src="../../../../img/coderetreat-1.jpeg"/>
 

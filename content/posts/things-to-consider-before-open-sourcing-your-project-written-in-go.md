@@ -4,6 +4,7 @@ description = ""
 title = "Things to consider before open sourcing your project written in go"
 tags = ["golang", "guide"]
 categories = ["golang"]
+type= "post"
 
 +++
 so, you want to finally release your _preciousss_ written in Go to the open source community. Great! And thank you.
