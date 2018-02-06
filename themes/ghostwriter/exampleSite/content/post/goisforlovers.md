@@ -203,7 +203,6 @@ illustration of how to use the pipes.
 
 **Example 2 :**
 
-    {{ index .Params "disqus_url" | html }}
 
 Access the page parameter called "disqus_url" and escape the HTML.
 
