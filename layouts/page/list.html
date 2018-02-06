@@ -4,8 +4,8 @@
     {{ partial "intro.html" . }}
 
     <ol class="post-list">
-        {{ $pag := .Paginate .Data.Pages }}
-        {{ range $pag.Pages }}
+        {{ $pag := .Paginate (where .Data.Pages "Type" "post") }}
+            {{ range $pag.Pages }}
             {{ partial "page-stub.html" . }}
         {{ end }}
     </ol>
