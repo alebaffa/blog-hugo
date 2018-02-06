@@ -2,7 +2,6 @@ baseurl = "https://alebaffa.com/"
 title = "Welcome"
 theme = "ghostwriter"
 copyright = "(c) 2015 Alessandro Baffa."
-googleAnalytics = "XXX"
 highlight = "monokai_sublime"
 
 [Author]
