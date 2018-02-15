@@ -16,6 +16,7 @@ highlight = "monokai_sublime"
     intro = true
     avatar = "speaker-small.jpg"
     headline = "~/alebaffa/weblog"
+    description = "Computer science is no more about computers than astronomy is about telescopes"
     github = "https://github.com/alebaffa"
     linkedin = "https://linkedin.com/in/alessandrobaffa/"
     gplus = "https://google.com/+AlessandroBaffa"

@@ -1,0 +1,12 @@
+{
+      "Name": "Alessandro Baffa",
+      "Profession": "Senior Software Engineer",
+      "City":"Tokyo, Japan",
+      "Contacts": [
+        {"phone": "(+81)080-2556-1845"},
+        {"email": "contact@alebaffa.com"},
+        {"blog": "alebaffa.com"},
+        {"twitter": "@alebaffa"},
+        {"linkedIn": "in/alessandrobaffa"}
+      ]
+    }
