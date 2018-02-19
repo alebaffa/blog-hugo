@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Guide on blog</title>
+    <link>https://alebaffa.com/tags/guide/</link>
+    <description>Recent content in Guide on blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>(c) 2015 Alessandro Baffa.</copyright>
+    <lastBuildDate>Thu, 26 Nov 2015 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://alebaffa.com/tags/guide/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Things to consider before open sourcing your project written in go</title>
+      <link>https://alebaffa.com/posts/things-to-consider-before-open-sourcing-your-project-written-in-go/</link>
+      <pubDate>Thu, 26 Nov 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://alebaffa.com/posts/things-to-consider-before-open-sourcing-your-project-written-in-go/</guid>
+      <description>so, you want to finally release your preciousss written in Go to the open source community. Great! And thank you. Though, there are few things you may want to consider before doing the big step. Things that you may have missed perhaps because you are not yet 100% comfortable with Go (but “_I will improve later. Now let me just put this gem on Github._”). You have to know that the Go community can be quite strict when it comes to its idioms and conventions.</description>
+    </item>
+    
+  </channel>
+</rss>

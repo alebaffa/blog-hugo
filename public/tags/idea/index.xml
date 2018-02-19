@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Idea on blog</title>
+    <link>https://alebaffa.com/tags/idea/</link>
+    <description>Recent content in Idea on blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>(c) 2015 Alessandro Baffa.</copyright>
+    <lastBuildDate>Sun, 06 Nov 2016 17:46:50 +0100</lastBuildDate>
+    
+	<atom:link href="https://alebaffa.com/tags/idea/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Raising The Bar With Science</title>
+      <link>https://alebaffa.com/posts/raising-the-bar-with-data/</link>
+      <pubDate>Sun, 06 Nov 2016 17:46:50 +0100</pubDate>
+      
+      <guid>https://alebaffa.com/posts/raising-the-bar-with-data/</guid>
+      <description>During SoCraTes France we had a session called Beyond Alchemy and What are the Software Leprechauns? with Laurent Bossavit, author of The Leprechauns of Software Engineering. We discussed about what we could do, as a community of professional developers, to raise the bar of our industry by starting to merge the scientific method used by academics and the huge amount of data from the real world of the industry.</description>
+    </item>
+    
+  </channel>
+</rss>
