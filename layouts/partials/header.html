@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html>
     <head>
+        {{ partial "extra-in-head.html" . }}
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
         <title>{{ .Title }} &middot; {{ .Site.Author.name }}</title>
@@ -16,7 +17,6 @@
         {{ if .RSSLink }}
             <link href="{{ .RSSLink }}" rel="alternate" type="application/rss+xml">
         {{ end }}
-        {{ partial "extra-in-head.html" . }}
     </head>
     <body>
         <div id="wrapper">
