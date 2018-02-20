@@ -54,6 +54,28 @@ ul, ol {
     }
 }
 
+.label {
+    display: inline-block;
+    padding: .2em .6em .3em;
+    font-size: 75%;
+    font-weight: bold;
+    line-height: 1;
+    color: #fff;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: baseline;
+    border-radius: .25em;
+  }
+  a.label:hover,
+  a.label:focus {
+    color: #fff;
+    text-decoration: none;
+    cursor: pointer;
+  }
+  .label:empty {
+    display: none;
+  }
+
 blockquote {
     border-left: 1px dotted $primary;
     margin: 40px 0;
@@ -281,7 +303,7 @@ table {
 .post-container { margin: 0 40px; }
 
 .post-header {
-    border-bottom: 6px solid $secondary;
+    border-bottom: 2px solid $secondary;
     margin: 0 0 20px;
     padding: 0 0 20px;
     text-align: center;
@@ -289,7 +311,7 @@ table {
 
 .post-title,
 .page-title {
-    font-size: 52px;
+    font-size: 42px;
     font-weight: 700;
     margin: 15px 0;
     text-align: center;
@@ -311,7 +333,6 @@ table {
     &:after {
         border-bottom: 1px dotted $secondary;
         content: "";
-        display: block;
         margin: 40px auto 0;
         width: 100px;
     }
@@ -431,7 +452,7 @@ table {
 }
 
 .post-stub-tag {
-    background: $secondary;
+    background: #AEADAD;
     border-radius: 3px;
     color: #FFF;
     float: right;
@@ -455,8 +476,6 @@ table {
 
 .post-stub-date {
     display: inline-block;
-
-    &:after { content: "~ "; }
 }
 
 .next-posts-link a,
@@ -674,7 +693,7 @@ table {
         margin-left: 25px;
     }
 
-    .post-tags { width: 100%; }
+    //.post-tags { width: 100%; }
 
     .post-stub a,
     .post-stub a:hover {

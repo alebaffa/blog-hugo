@@ -77,6 +77,9 @@ ul, ol { line-height: 1.4; margin: 0 0 20px; }
 ul ul, ul ol, ol ul, ol ol { margin: 10px 0 0 20px; }
 ul li, ol li { margin: 0 0 2px; }
 ul li:last-of-type, ol li:last-of-type { margin-bottom: 0; }
+.label { display: inline-block; padding: .2em .6em .3em; font-size: 75%; font-weight: bold; line-height: 1; color: #fff; text-align: center; white-space: nowrap; vertical-align: baseline; border-radius: .25em; }
+a.label:hover, a.label:focus { color: #fff; text-decoration: none; cursor: pointer; }
+.label:empty { display: none; }
 blockquote { border-left: 1px dotted #f03838; margin: 40px 0; padding: 5px 30px; }
 blockquote p { color: #aeadad; display: block; font-style: italic; margin: 0; width: 100%; }
 img { display: block; margin: 40px 0; width: auto; max-width: 100%; }
@@ -119,12 +122,12 @@ table tr { border-bottom: 1px dotted #aeadad; }
 #latest-post { display: none; }
 .post-container { margin: 0 40px; }
 .post-header { border-bottom: 2px solid #303030; margin: 0 0 20px; padding: 0 0 20px; text-align: center; }
-.post-title, .page-title { font-size: 52px; font-weight: 700; margin: 15px 0; text-align: center; }
+.post-title, .page-title { font-size: 42px; font-weight: 700; margin: 15px 0; text-align: center; }
 .page-title { margin: 15px 40px; }
 .post-date, .blog-description { color: #aeadad; font-size: 14px; font-weight: 600; line-height: 1; margin: 25px 0 0; }
 .post-date a, .blog-description a { color: #aeadad; }
 .post-date a:hover, .blog-description a:hover { color: #f03838; }
-.post-date:after, .blog-description:after { border-bottom: 1px dotted #303030; content: ""; display: block; margin: 40px auto 0; width: 100px; }
+.post-date:after, .blog-description:after { border-bottom: 1px dotted #303030; content: ""; margin: 40px auto 0; width: 100px; }
 .post-content a:hover { border-bottom: 1px dotted #f03838; padding: 0 0 2px; }
 .post-content:last-child { margin-bottom: 0; }
 .post-content .footnote { border-spacing: 0; margin-bottom: 0; }
@@ -148,17 +151,16 @@ table tr { border-bottom: 1px dotted #aeadad; }
 .post-stub a { -webkit-transition: all .2s ease-in-out; -moz-transition: all .2s ease-in-out; transition: all .2s ease-in-out; display: block; color: #424242; padding: 20px 5px; }
 .post-stub a:hover { background: #fcf5f5; color: #f03838; padding: 20px 12px; }
 .post-stub a:hover .post-stub-tag { background: #f03838; }
-.post-stub-tag { background: #303030; border-radius: 3px; color: #fff; float: right; font-size: 10px; margin: 7px 0 0; padding: 0 5px; text-transform: uppercase; }
+.post-stub-tag { background: #aeadad; border-radius: 3px; color: #fff; float: right; font-size: 10px; margin: 7px 0 0; padding: 0 5px; text-transform: uppercase; }
 .post-stub-title { display: inline-block; margin: 0; text-transform: none; }
 .post-stub-description { display: inline-block; margin: 0; text-transform: none; }
 .post-stub-date { display: inline-block; }
-.post-stub-date:after { content: " ~ "; }
 .next-posts-link a, .previous-posts-link a { display: block; padding: 8px 11px; }
 .author-profile { margin: 0 40px; }
 .author-profile:after { border-bottom: 1px dotted #303030; content: ""; display: block; margin: 40px auto 0; width: 100px; }
 .author-heading { margin: 15px auto; text-align: center; width: 100%; }
 .author-avatar { border-radius: 50px; display: inline; height: 50px; margin: 5px 10px 0 0; width: 50px; vertical-align: middle; }
-.author-name { display: inline; font-size: 52px; font-weight: 700; text-align: center; text-transform: uppercase; vertical-align: middle; }
+.author-name { display: inline; font-size: 52px; font-weight: 700; text-align: center; vertical-align: middle; }
 .author-meta { color: #aeadad; font-size: 14px; font-weight: 600; line-height: 1; margin: 25px 0 0; text-align: center; text-transform: uppercase; }
 .author-meta span { display: inline-block; margin: 0 10px 8px; }
 .author-meta i { margin-right: 8px; }
@@ -168,7 +170,7 @@ table tr { border-bottom: 1px dotted #aeadad; }
 .footer { background: #303030; color: #d3d3d3; height: 265px; margin-top: 95px; overflow: auto; }
 .footer .site-title-wrapper { margin: 80px auto 35px; }
 .footer .site-title a:hover, .footer .button-square:hover { background: #121212; }
-.footer-copyright { color: #656565; font-size: 14px; margin: 0; text-align: center; text-transform: uppercase; }
+.footer-copyright { color: #656565; font-size: 14px; margin: 0; text-align: center; }
 .footer-copyright a { color: #656565; font-weight: 700; }
 .footer-copyright a:hover { color: #fefefe; }
 #nprogress .bar { background: #f03838; }
@@ -201,7 +203,6 @@ table tr { border-bottom: 1px dotted #aeadad; }
  .post-stub-date:before { content: ""; display: block; }
  .post-list { margin-top: 20px; }
  .post-container, .post-list, .author-profile { margin-right: 25px; margin-left: 25px; }
- .post-tags { width: 100%; }
  .post-stub a, .post-stub a:hover { padding-top: 12px; padding-bottom: 12px; }
  .share { float: left; margin-top: 20px; }
  .share a { margin: 0 5px 0 0; }

@@ -27,7 +27,7 @@ highlight = "monokai_sublime"
     shareGooglePlus = true
     shareLinkedIn = false
     powered_by = true
-    dateFormat = "02-Jan-2006"
+    dateFormat = "02/01/2006"
 
 [Permalinks]
     post = "/:year/:month/:day/:filename/"
