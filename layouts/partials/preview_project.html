@@ -15,19 +15,5 @@
         </span>
       {{ end }}
     </div>
-  
-    <p>
-      {{ if (not (isset .Params "externalurl")) }}
-        {{ .Summary }}
-      {{ else }}
-        {{ .Content }}
-      {{ end }}
-    </p>
-  
-    {{ if .Truncated }}
-      {{ if (not (isset .Params "externalurl")) }}
-        <a class="continue" rel="full-article" href="{{ .Permalink }}">Continue Reading »</a>
-      {{ end }}
-    {{ end }}
   </article>
   
