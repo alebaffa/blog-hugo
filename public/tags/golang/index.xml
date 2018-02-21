@@ -1,25 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Golang on blog</title>
+    <title>Golang on Welcome</title>
     <link>https://alebaffa.com/tags/golang/</link>
-    <description>Recent content in Golang on blog</description>
+    <description>Recent content in Golang on Welcome</description>
     <generator>Hugo -- gohugo.io</generator>
-    <copyright>(c) 2015 Alessandro Baffa.</copyright>
-    <lastBuildDate>Sun, 19 Jun 2016 21:28:49 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 16 May 2016 21:04:53 +0200</lastBuildDate>
     
 	<atom:link href="https://alebaffa.com/tags/golang/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Practicing TDD: FizzBuzz kata in Golang</title>
-      <link>https://alebaffa.com/posts/fizz-buzz-golang/</link>
-      <pubDate>Sun, 19 Jun 2016 21:28:49 +0200</pubDate>
-      
-      <guid>https://alebaffa.com/posts/fizz-buzz-golang/</guid>
-      <description>My implementation:
- and here the list of all the steps that I’ve done to implement it in TDD on my github account.</description>
-    </item>
     
     <item>
       <title>First try with concurrency in Go</title>
@@ -31,15 +20,6 @@
 Fortunately exercism.io has just introduced me to this topic with the exercise &amp;ldquo;Parallel Letter Frequency&amp;rdquo; exercise&amp;rdquo;.
 The core of my solution is here (I let you read the comments).
 Basically the exercise asks you to count the frequency of the letters in 3 different strings. They provide you with already a function that counts the frequency, but you are asked to call that function with 3 calls in parallel (one call for each string) and to collect the result (the total frequencies from all the 3 strings).</description>
-    </item>
-    
-    <item>
-      <title>Things to consider before open sourcing your project written in go</title>
-      <link>https://alebaffa.com/posts/things-to-consider-before-open-sourcing-your-project-written-in-go/</link>
-      <pubDate>Thu, 26 Nov 2015 00:00:00 +0000</pubDate>
-      
-      <guid>https://alebaffa.com/posts/things-to-consider-before-open-sourcing-your-project-written-in-go/</guid>
-      <description>so, you want to finally release your preciousss written in Go to the open source community. Great! And thank you. Though, there are few things you may want to consider before doing the big step. Things that you may have missed perhaps because you are not yet 100% comfortable with Go (but “_I will improve later. Now let me just put this gem on Github._”). You have to know that the Go community can be quite strict when it comes to its idioms and conventions.</description>
     </item>
     
     <item>

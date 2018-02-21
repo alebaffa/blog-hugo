@@ -1,25 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Personal on blog</title>
+    <title>Personal on Welcome</title>
     <link>https://alebaffa.com/tags/personal/</link>
-    <description>Recent content in Personal on blog</description>
+    <description>Recent content in Personal on Welcome</description>
     <generator>Hugo -- gohugo.io</generator>
-    <copyright>(c) 2015 Alessandro Baffa.</copyright>
-    <lastBuildDate>Thu, 25 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 18 Feb 2017 08:03:16 +0100</lastBuildDate>
     
 	<atom:link href="https://alebaffa.com/tags/personal/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>My current learning journey</title>
-      <link>https://alebaffa.com/posts/my-last-seven-months/</link>
-      <pubDate>Thu, 25 Jan 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://alebaffa.com/posts/my-last-seven-months/</guid>
-      <description>I started my journey at Rakuten in June 2017 and, more precisely, I am Full Stack Engineer working for Rakuten Magazine. It&amp;rsquo;s a pretty new Web project, so it&amp;rsquo;s not big and we are very few people: 4 guys focused on Web and API (myself included), and 3 guys on Android/iOS.
-First huge difference from my previous job: here I can put my hands on literally everything. We have a total freedom to choose what technology stack to use, if it&amp;rsquo;s reasonable and well argumented.</description>
-    </item>
     
     <item>
       <title>Changing Everything. Again.</title>
@@ -29,26 +18,6 @@ First huge difference from my previous job: here I can put my hands on literally
       <guid>https://alebaffa.com/posts/new-chapter-of-life/</guid>
       <description>After 7 years spent in France I am officially moving to Tokyo, Japan, end of May 2017. I am finally going to join my wife, Sarah, after almost 5 years of long and hard distant relationship.
 Now, before to start with the burocracy madness and to move/sell/close/sign things, I am sitting here at home, in the first weekend after having resigned from my current company, trying to think about how many things I learned over the last 7 years.</description>
-    </item>
-    
-    <item>
-      <title>How Can You Say You’re A Software Crafts(wo)man?</title>
-      <link>https://alebaffa.com/posts/being-a-software-craftsman/</link>
-      <pubDate>Sat, 06 Aug 2016 12:29:46 +0200</pubDate>
-      
-      <guid>https://alebaffa.com/posts/being-a-software-craftsman/</guid>
-      <description>This is a question that came up yesterday during our latest meetup with our local French Riviera Software Craftsmanship Community (note: a very nice round table session on the beach of Juan Les Pins ). This post is my answer to this question.
-What Software Craftsmanship is not It’s not an elitist club of people who think to hold the truth of how to write the perfect code. This is an important aspect because it is related to how much inclusive or exclusive a group of people is (and also to how much nice people are).</description>
-    </item>
-    
-    <item>
-      <title>Surrounding yourself with the right people</title>
-      <link>https://alebaffa.com/posts/surrounding-yourself-with-the-right-people/</link>
-      <pubDate>Tue, 23 Feb 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://alebaffa.com/posts/surrounding-yourself-with-the-right-people/</guid>
-      <description>I was 8 years old when I started playing guitar. It was not my choice, though, but my parents’ who forced me to start taking some lessons. I hated it at the beginning: hours of solfège, and I wasn’t even able to play the most stupid song. No chords, nothing at all.
-Nevertheless I had some natural talent for music (I’m gifted with the so called musical ear. And so my brother and sister are - the Force is strong in my family), and maybe my parents knew that and that’s why they persisted so much with me.</description>
     </item>
     
   </channel>

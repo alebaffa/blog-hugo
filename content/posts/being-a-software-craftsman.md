@@ -2,7 +2,7 @@
 author = "How Can You Say You’re A Software Crafts(wo)man?"
 date = "2016-08-06T12:29:46+02:00"
 description = ""
-tags = ["craftsmanship", "personal"]
+categories = ["personal"]
 title = "How Can You Say You’re A Software Crafts(wo)man?"
 type= "post"
 +++

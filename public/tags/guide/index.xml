@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Guide on blog</title>
+    <title>Guide on Welcome</title>
     <link>https://alebaffa.com/tags/guide/</link>
-    <description>Recent content in Guide on blog</description>
+    <description>Recent content in Guide on Welcome</description>
     <generator>Hugo -- gohugo.io</generator>
-    <copyright>(c) 2015 Alessandro Baffa.</copyright>
     <lastBuildDate>Thu, 26 Nov 2015 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://alebaffa.com/tags/guide/index.xml" rel="self" type="application/rss+xml" />

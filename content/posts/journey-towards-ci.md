@@ -2,7 +2,7 @@
 title: "Towards Continuous Integration: Spring Boot Web Application"
 description: "What you should take care of when you want to put your legacy code into a CI system"
 author: "Alessandro"
-tags: ["",""]
+categories: ["CI","Jenkins"]
 date: 2018-02-20T21:25:02+09:00
 draft: true
 type: "post"

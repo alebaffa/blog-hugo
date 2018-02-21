@@ -3,7 +3,7 @@ date = "2015-11-10"
 description = ""
 title = "Back from dotgo 2015"
 tags = ["golang", "conferences"]
-categories = ["conference", "learning"]
+categories = ["conferences", "golang"]
 type= "post"
 +++
 ![alt text](../../../../img/dotgo.jpeg "dotgo2015")

@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Code Kata on blog</title>
+    <title>Code Kata on Welcome</title>
     <link>https://alebaffa.com/tags/code-kata/</link>
-    <description>Recent content in Code Kata on blog</description>
+    <description>Recent content in Code Kata on Welcome</description>
     <generator>Hugo -- gohugo.io</generator>
-    <copyright>(c) 2015 Alessandro Baffa.</copyright>
     <lastBuildDate>Sun, 19 Jun 2016 21:28:49 +0200</lastBuildDate>
     
 	<atom:link href="https://alebaffa.com/tags/code-kata/index.xml" rel="self" type="application/rss+xml" />

@@ -2,7 +2,7 @@
 title = "My current learning journey"
 description = ""
 author = ""
-tags = ["personal"]
+categories = ["personal"]
 date = "2018-01-25"
 type= "post"
 +++

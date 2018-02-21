@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Personal on Welcome</title>
+    <link>https://alebaffa.com/categories/personal/</link>
+    <description>Recent content in Personal on Welcome</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 25 Jan 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://alebaffa.com/categories/personal/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>My current learning journey</title>
+      <link>https://alebaffa.com/posts/my-last-seven-months/</link>
+      <pubDate>Thu, 25 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://alebaffa.com/posts/my-last-seven-months/</guid>
+      <description>I started my journey at Rakuten in June 2017 and, more precisely, I am Full Stack Engineer working for Rakuten Magazine. It&amp;rsquo;s a pretty new Web project, so it&amp;rsquo;s not big and we are very few people: 4 guys focused on Web and API (myself included), and 3 guys on Android/iOS.
+First huge difference from my previous job: here I can put my hands on literally everything. We have a total freedom to choose what technology stack to use, if it&amp;rsquo;s reasonable and well argumented.</description>
+    </item>
+    
+    <item>
+      <title>2017: A Year in Review</title>
+      <link>https://alebaffa.com/posts/2017-a-year-in-review/</link>
+      <pubDate>Thu, 07 Dec 2017 20:00:10 +0900</pubDate>
+      
+      <guid>https://alebaffa.com/posts/2017-a-year-in-review/</guid>
+      <description>It&amp;rsquo;s almost the end of the year and, as always, it&amp;rsquo;s time to stop for a moment and look back. These first 6 months in Tokyo have been a mix of joy and struggle. I am finally living a kind of normal life with my wife and it&amp;rsquo;s fantastic, of course. We are making up for lost time and we&amp;rsquo;re having a lot of fun together. I lost the count of how many hours we spent at karaoke or how many times we ate sushi at our favorite place in Shinjuku.</description>
+    </item>
+    
+    <item>
+      <title>Changing Everything. Again.</title>
+      <link>https://alebaffa.com/posts/new-chapter-of-life/</link>
+      <pubDate>Sat, 18 Feb 2017 08:03:16 +0100</pubDate>
+      
+      <guid>https://alebaffa.com/posts/new-chapter-of-life/</guid>
+      <description>After 7 years spent in France I am officially moving to Tokyo, Japan, end of May 2017. I am finally going to join my wife, Sarah, after almost 5 years of long and hard distant relationship.
+Now, before to start with the burocracy madness and to move/sell/close/sign things, I am sitting here at home, in the first weekend after having resigned from my current company, trying to think about how many things I learned over the last 7 years.</description>
+    </item>
+    
+    <item>
+      <title>Raising The Bar With Science</title>
+      <link>https://alebaffa.com/posts/raising-the-bar-with-data/</link>
+      <pubDate>Sun, 06 Nov 2016 17:46:50 +0100</pubDate>
+      
+      <guid>https://alebaffa.com/posts/raising-the-bar-with-data/</guid>
+      <description>During SoCraTes France we had a session called Beyond Alchemy and What are the Software Leprechauns? with Laurent Bossavit, author of The Leprechauns of Software Engineering. We discussed about what we could do, as a community of professional developers, to raise the bar of our industry by starting to merge the scientific method used by academics and the huge amount of data from the real world of the industry.</description>
+    </item>
+    
+    <item>
+      <title>How Can You Say You’re A Software Crafts(wo)man?</title>
+      <link>https://alebaffa.com/posts/being-a-software-craftsman/</link>
+      <pubDate>Sat, 06 Aug 2016 12:29:46 +0200</pubDate>
+      
+      <guid>https://alebaffa.com/posts/being-a-software-craftsman/</guid>
+      <description>This is a question that came up yesterday during our latest meetup with our local French Riviera Software Craftsmanship Community (note: a very nice round table session on the beach of Juan Les Pins ). This post is my answer to this question.
+What Software Craftsmanship is not It’s not an elitist club of people who think to hold the truth of how to write the perfect code. This is an important aspect because it is related to how much inclusive or exclusive a group of people is (and also to how much nice people are).</description>
+    </item>
+    
+    <item>
+      <title>The Paradox Of Choice In Learning to Code</title>
+      <link>https://alebaffa.com/posts/the-paradox-of-choice-in-learning/</link>
+      <pubDate>Mon, 16 May 2016 15:37:25 +0200</pubDate>
+      
+      <guid>https://alebaffa.com/posts/the-paradox-of-choice-in-learning/</guid>
+      <description>I was talking with a guy some days ago and it went like this:
+ he told me &amp;ldquo;I really would like to start improving myself and I need a pet project..&amp;ldquo; I said &amp;ldquo;great idea! But where do you want to improve?&amp;ldquo; he said &amp;ldquo;..that&amp;rsquo;s the problem: I still don&amp;rsquo;t know what I want to use. There are so many things out there that I would like to learn &amp;hellip; and I don&amp;rsquo;t know where to start&amp;hellip;&amp;ldquo;  This made me think about a book I read some time ago called &amp;ldquo;The Paradox of Choice: Why More Is Less&amp;rdquo; (the author gave also an awesome TED Talk about it).</description>
+    </item>
+    
+    <item>
+      <title>Surrounding yourself with the right people</title>
+      <link>https://alebaffa.com/posts/surrounding-yourself-with-the-right-people/</link>
+      <pubDate>Tue, 23 Feb 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://alebaffa.com/posts/surrounding-yourself-with-the-right-people/</guid>
+      <description>I was 8 years old when I started playing guitar. It was not my choice, though, but my parents’ who forced me to start taking some lessons. I hated it at the beginning: hours of solfège, and I wasn’t even able to play the most stupid song. No chords, nothing at all.
+Nevertheless I had some natural talent for music (I’m gifted with the so called musical ear. And so my brother and sister are - the Force is strong in my family), and maybe my parents knew that and that’s why they persisted so much with me.</description>
+    </item>
+    
+  </channel>
+</rss>

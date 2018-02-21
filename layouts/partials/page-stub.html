@@ -1,9 +1,0 @@
-<li class="post-stub">
-    <a href="{{ .Permalink }}">
-        <button type="button" class="btn btn-outline-danger btn-sm"><time class="post-stub-date" datetime="{{ .Date.Format "2006-01-02" }}">{{ dateFormat (default "01-02-2006" .Site.Params.dateFormat) .Date }}</time></button>
-        <h4 class="post-stub-title">{{ .Title }}</h4>
-        {{ with .Params.featured }}
-            <span class="post-stub-tag">Featured</span>
-        {{ end }}
-    </a>
-</li>

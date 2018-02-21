@@ -2,6 +2,7 @@
 title = "2017: A Year in Review"
 date = "2017-12-07T20:00:10+09:00"
 type = "post"
+categories = ["personal"]
 +++
 
 It's almost the end of the year and, as always, it's time to stop for a moment and look back.

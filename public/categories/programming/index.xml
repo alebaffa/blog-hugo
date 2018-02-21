@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Programming on Welcome</title>
+    <link>https://alebaffa.com/categories/programming/</link>
+    <description>Recent content in Programming on Welcome</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 05 Jul 2016 21:29:11 +0200</lastBuildDate>
+    
+	<atom:link href="https://alebaffa.com/categories/programming/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Transformation Priority Premise: overcome the fear of new tests</title>
+      <link>https://alebaffa.com/posts/tpp/</link>
+      <pubDate>Tue, 05 Jul 2016 21:29:11 +0200</pubDate>
+      
+      <guid>https://alebaffa.com/posts/tpp/</guid>
+      <description>The Transformation Priority Premise (TPP) is a great empirical list of transformations that you can apply in your code when you’re working in TDD:
+When do you need it? Practicing with TDD I realized that sometimes I reach a point when I get stuck: I am almost scared to add a new particular test because I already know it’s going to force me to completely rewrite the structure of the code.</description>
+    </item>
+    
+    <item>
+      <title>The Paradox Of Choice In Learning to Code</title>
+      <link>https://alebaffa.com/posts/the-paradox-of-choice-in-learning/</link>
+      <pubDate>Mon, 16 May 2016 15:37:25 +0200</pubDate>
+      
+      <guid>https://alebaffa.com/posts/the-paradox-of-choice-in-learning/</guid>
+      <description>I was talking with a guy some days ago and it went like this:
+ he told me &amp;ldquo;I really would like to start improving myself and I need a pet project..&amp;ldquo; I said &amp;ldquo;great idea! But where do you want to improve?&amp;ldquo; he said &amp;ldquo;..that&amp;rsquo;s the problem: I still don&amp;rsquo;t know what I want to use. There are so many things out there that I would like to learn &amp;hellip; and I don&amp;rsquo;t know where to start&amp;hellip;&amp;ldquo;  This made me think about a book I read some time ago called &amp;ldquo;The Paradox of Choice: Why More Is Less&amp;rdquo; (the author gave also an awesome TED Talk about it).</description>
+    </item>
+    
+  </channel>
+</rss>

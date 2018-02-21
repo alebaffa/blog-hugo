@@ -2,7 +2,7 @@
 author = "alebaffa"
 date = "2016-10-31T12:29:46+02:00"
 description = ""
-tags = ["craftsmanship", "socrates"]
+categories = ["conferences"]
 title = "Back from SoCraTes France 2016"
 type= "post"
 

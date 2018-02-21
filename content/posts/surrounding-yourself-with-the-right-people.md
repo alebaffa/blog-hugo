@@ -2,7 +2,6 @@
 date = "2016-02-23"
 description = ""
 title = "Surrounding yourself with the right people"
-tags = ["personal"]
 categories = ["personal"]
 type= "post"
 

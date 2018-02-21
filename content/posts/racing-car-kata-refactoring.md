@@ -5,6 +5,7 @@ author = "alebaffa"
 tags = [
 ]
 date = "2016-10-09T21:17:23+02:00"
+categories = ["code-kata", "refactoring"]
 type= "post"
 +++
 

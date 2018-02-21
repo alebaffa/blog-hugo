@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Conferences on Welcome</title>
+    <link>https://alebaffa.com/categories/conferences/</link>
+    <description>Recent content in Conferences on Welcome</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 06 Jan 2017 12:53:04 +0100</lastBuildDate>
+    
+	<atom:link href="https://alebaffa.com/categories/conferences/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Global Day of Coderetreat 2016 // Main organizer</title>
+      <link>https://alebaffa.com/projects/gdcr-2016/</link>
+      <pubDate>Fri, 06 Jan 2017 12:53:04 +0100</pubDate>
+      
+      <guid>https://alebaffa.com/projects/gdcr-2016/</guid>
+      <description>About project I organized the local event of the Global Day of Coderetreat 2016 in Sophia Antipolis, Nice area, South of France. It&amp;rsquo;s the biggest worldwide event for developers organized by the international Software Craftsmanship Community and it takes places every year in more than 100 cities in the world.
+I organized the first one ever in South of France with a big success: 50 people participated.
+I took care of finding the sponsors, the location and the communication on social media and with local companies.</description>
+    </item>
+    
+    <item>
+      <title>Back from SoCraTes France 2016</title>
+      <link>https://alebaffa.com/posts/socrates-france/</link>
+      <pubDate>Mon, 31 Oct 2016 12:29:46 +0200</pubDate>
+      
+      <guid>https://alebaffa.com/posts/socrates-france/</guid>
+      <description>My second time in a Software Craftsmanship and Testing (SoCraTes) conference and, as always, it has been an awesome experience.
+The self-made agenda SoCraTes is a non-conference, which means that there’s no predefined agenda, but instead it is created every day by the participants (the image above is the agenda of day 2). Everybody is more than welcome to propose sessions. They can be presentation of something you know, or open discussion about a topic you are curious about, or more simply a session where you want to learn something and you are looking for someone more experienced to help you.</description>
+    </item>
+    
+    <item>
+      <title>Global Day of Coderetreat 2016, Sophia Antipolis, France</title>
+      <link>https://alebaffa.com/posts/global-day-of-coderetreat/</link>
+      <pubDate>Sun, 23 Oct 2016 12:29:46 +0200</pubDate>
+      
+      <guid>https://alebaffa.com/posts/global-day-of-coderetreat/</guid>
+      <description>We did it! The Global Day of Coderetreat in Sophia Antipolis has been a great success! My first coderetreat ever, and I played the role of the organizer and facilitator. It’s an event that I started to organize in August and I have been lucky to find the support of the University of Nice-Sophia Antipolis and my company, Amadeus IT Group. In the organization of all this I have been hugely helped by other people who have been facilitators with me (we were 3 facilitators, 1 host and 2 facilitators/helpers).</description>
+    </item>
+    
+    <item>
+      <title>Back from dotgo 2015</title>
+      <link>https://alebaffa.com/posts/back-from-dotgo-2015/</link>
+      <pubDate>Tue, 10 Nov 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://alebaffa.com/posts/back-from-dotgo-2015/</guid>
+      <description>Today I’ve been at the dotGo conference in Paris, the European conference about the Go programming language. Quick summary: fantastic!
+It’s the second time I participate (I’ve been there also last year, 2014) and I found exactly the same impeccable organization, a beautiful location (with lots of food..), a great ambiance, and the talks, as usual, have been extremely interesting, inspiring and cool. Some of them (not in the same order of the conference):</description>
+    </item>
+    
+  </channel>
+</rss>

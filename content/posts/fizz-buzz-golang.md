@@ -2,7 +2,7 @@
 author = "alebaffa"
 date = "2016-06-19T21:28:49+02:00"
 description = "Practicing with Go with a code kata"
-tags = ["golang", "code-kata", "software-craftsmanship"]
+categories = ["golang", "code-kata"]
 title = "Practicing TDD: FizzBuzz kata in Golang"
 type= "post"
 +++

@@ -2,7 +2,7 @@
 title: ""
 description: ""
 author: "Alessandro"
-tags: ["",""]
+categories: ["",""]
 date: {{ .Date }}
 draft: true
 type: "post"

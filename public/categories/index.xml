@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Welcome</title>
+    <link>https://alebaffa.com/categories/</link>
+    <description>Recent content in Categories on Welcome</description>
+    <generator>Hugo -- gohugo.io</generator>
+    
+	<atom:link href="https://alebaffa.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Code Kata</title>
+      <link>https://alebaffa.com/categories/code-kata/</link>
+      <pubDate>Sun, 09 Oct 2016 21:17:23 +0200</pubDate>
+      
+      <guid>https://alebaffa.com/categories/code-kata/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Conferences</title>
+      <link>https://alebaffa.com/categories/conferences/</link>
+      <pubDate>Fri, 06 Jan 2017 12:53:04 +0100</pubDate>
+      
+      <guid>https://alebaffa.com/categories/conferences/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Golang</title>
+      <link>https://alebaffa.com/categories/golang/</link>
+      <pubDate>Sun, 19 Jun 2016 21:28:49 +0200</pubDate>
+      
+      <guid>https://alebaffa.com/categories/golang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Personal</title>
+      <link>https://alebaffa.com/categories/personal/</link>
+      <pubDate>Thu, 25 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://alebaffa.com/categories/personal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Programming</title>
+      <link>https://alebaffa.com/categories/programming/</link>
+      <pubDate>Tue, 05 Jul 2016 21:29:11 +0200</pubDate>
+      
+      <guid>https://alebaffa.com/categories/programming/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Refactoring</title>
+      <link>https://alebaffa.com/categories/refactoring/</link>
+      <pubDate>Sun, 09 Oct 2016 21:17:23 +0200</pubDate>
+      
+      <guid>https://alebaffa.com/categories/refactoring/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Slices</title>
+      <link>https://alebaffa.com/categories/slices/</link>
+      <pubDate>Thu, 31 Mar 2016 06:56:10 +0200</pubDate>
+      
+      <guid>https://alebaffa.com/categories/slices/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

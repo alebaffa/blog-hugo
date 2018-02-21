@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Refactoring on Welcome</title>
+    <link>https://alebaffa.com/categories/refactoring/</link>
+    <description>Recent content in Refactoring on Welcome</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 09 Oct 2016 21:17:23 +0200</lastBuildDate>
+    
+	<atom:link href="https://alebaffa.com/categories/refactoring/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Dependency Injection VS Extract and Override Factory Method</title>
+      <link>https://alebaffa.com/posts/racing-car-kata-refactoring/</link>
+      <pubDate>Sun, 09 Oct 2016 21:17:23 +0200</pubDate>
+      
+      <guid>https://alebaffa.com/posts/racing-car-kata-refactoring/</guid>
+      <description>The TextConverter exercise (in the Racing Car kata suite) is a very interesting exercise for refactoring legacy code. As I am reading Working Effectively with Legacy Code I found two ways of solving it.
+Refactoring can only be done safely with unit tests and so I did, rigourously in TDD. Though, in this blog post I am not going to show you all the testing process, but only the two ways of decoupling the dependency.</description>
+    </item>
+    
+    <item>
+      <title>Transformation Priority Premise: overcome the fear of new tests</title>
+      <link>https://alebaffa.com/posts/tpp/</link>
+      <pubDate>Tue, 05 Jul 2016 21:29:11 +0200</pubDate>
+      
+      <guid>https://alebaffa.com/posts/tpp/</guid>
+      <description>The Transformation Priority Premise (TPP) is a great empirical list of transformations that you can apply in your code when you’re working in TDD:
+When do you need it? Practicing with TDD I realized that sometimes I reach a point when I get stuck: I am almost scared to add a new particular test because I already know it’s going to force me to completely rewrite the structure of the code.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,5 +1,5 @@
 +++
-tags = ["science", "idea"]
+categories = ["personal"]
 title = "Raising The Bar With Science"
 description = ""
 author = "alebaffa"

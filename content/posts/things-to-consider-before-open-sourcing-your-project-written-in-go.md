@@ -2,7 +2,6 @@
 date = "2015-11-26"
 description = ""
 title = "Things to consider before open sourcing your project written in go"
-tags = ["golang", "guide"]
 categories = ["golang"]
 type= "post"
 

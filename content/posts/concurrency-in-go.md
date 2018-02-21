@@ -1,8 +1,7 @@
 +++
-categories = ["golang"]
 date = "2016-05-16T21:04:53+02:00"
 description = ""
-keywords = ["golang"]
+categories = ["golang"]
 title = "First try with concurrency in Go"
 tags = ["Golang"]
 type= "post"

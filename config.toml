@@ -1,48 +1,47 @@
 baseurl = "https://alebaffa.com/"
 title = "Welcome"
-theme = "ghostwriter"
-copyright = "(c) 2015 Alessandro Baffa."
-highlight = "monokai_sublime"
+theme = "internet-weblog"
+pygmentsstyle = "emacs"
+SectionPagesMenu = "main"
 
-[Author]
-    name = "Alessandro Baffa"
-    profile = "https://twitter.com/alebaffa"
+[author]
+	Handle = "alebaffa"
+	FirstName = "Alessandro"
+	LastName = "Baffa"
+	AboutPage = "/about"
+	Location = "Tokyo, Japan"
+    FlickrID = "alebaffa"
 
 [Taxonomies]
     tag = "tags"
+    category = "categories"
+    series = "series"
 
 [Params]
-    title = "blog"
-    intro = true
-    avatar = "speaker-small.jpg"
-    headline = "@alebaffa's weblog"
-    description = "Computer science is no more about computers than astronomy is about telescopes"
-    github = "https://github.com/alebaffa"
-    linkedin = "https://linkedin.com/in/alessandrobaffa/"
-    gplus = "https://google.com/+AlessandroBaffa"
-    twitter = "https://twitter.com/alebaffa"
-    # stackoverflow = "http://stackoverflow.com/users/XXX/YYY"
-    shareTwitter = true
-    shareFacebook = true
-    shareGooglePlus = true
-    shareLinkedIn = false
-    powered_by = true
+	Description = "Computer science is no more about computers than astronomy is about telescopes"
+	ShowCopyright = true
+	RSSEnabled = true
+	RSSSections = [ "Posts", "Microposts", "Photos" ]
+    RSSMicropostTitles = false
     dateFormat = "02/01/2006"
 
 [Permalinks]
     post = "/:year/:month/:day/:filename/"
 
 [[menu.main]]
-    name = "Blog"
-    url = "/"
+    name = "Posts"
+    url = "/posts/"
+    identifier = "posts"
     weight = 1
 
 [[menu.main]]
     name = "Projects"
-    url = "/project/"
+    url = "/projects/"
+    identifier = "projects"
     weight = 2
 
 [[menu.main]]
-    name = "About"
-    url = "/page/about/"
+    name = "Microposts"
+    url = "/microposts/"
+    identifier = "microposts"
     weight = 3
