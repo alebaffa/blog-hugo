@@ -114,25 +114,19 @@
   </url>
   
   <url>
-    <loc>https://alebaffa.com/categories/conferences/</loc>
-    <lastmod>2017-01-06T12:53:04+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://alebaffa.com/tags/conferences/</loc>
     <lastmod>2015-11-10T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://alebaffa.com/projects/gotourita/</loc>
+    <loc>https://alebaffa.com/categories/conferences/</loc>
+    <lastmod>2017-01-06T12:53:04+01:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://alebaffa.com/categories/golang/</loc>
-    <lastmod>2016-06-19T21:28:49+02:00</lastmod>
-    <priority>0</priority>
+    <loc>https://alebaffa.com/projects/gotourita/</loc>
   </url>
   
   <url>
@@ -142,14 +136,20 @@
   </url>
   
   <url>
-    <loc>https://alebaffa.com/categories/personal/</loc>
-    <lastmod>2018-01-25T00:00:00+00:00</lastmod>
+    <loc>https://alebaffa.com/categories/golang/</loc>
+    <lastmod>2016-06-19T21:28:49+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://alebaffa.com/tags/personal/</loc>
     <lastmod>2017-02-18T08:03:16+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://alebaffa.com/categories/personal/</loc>
+    <lastmod>2018-01-25T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

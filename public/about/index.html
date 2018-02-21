@@ -1,6 +1,16 @@
 <!DOCTYPE html>
 <html lang="en-US">
   <head>
+    
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-114385313-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-114385313-1');
+</script>
+
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -58,21 +68,33 @@
   <main class="content">
     <article class="page">
       <p>
-        <p><img src="../../img/me.jpg" alt="alebaffa" style="width: 200px; float: left; margin-right: 20px; margin-bottom: 1px; margin-top: 0px;"/></p>
+        <p><img src="../assets/images/me.jpg" alt="alebaffa" style="width: 200px; float: left; margin-right: 20px; margin-bottom: 1px; margin-top: 0px;"/></p>
 
 <p>I am a Full Stack Software Engineer based in Tokyo and I currently make things work at Rakuten. More on <a href="https://www.linkedin.com/in/alessandrobaffa">LinkedIn</a>.</p>
+
+<p><br /></p>
 
 <p>My greatest passion is to make people and teams more productive and efficient.
 I love to create and foster a learning culture in the companies I work for, and I always organize learning activities to help knowledge spread and people improve. I have experience in organizing <em>coding dojos</em>, facilitating <em>open spaces</em> and organize small conferences.
 Simply put: I love to help people improve their skills.</p>
 
+<p><br /></p>
+
 <p>Oh, in my spare time I&rsquo;m kind of a big geek. I&rsquo;m currently improving my skills in Deep Learning, Data Science and Blockchain. I am a hysterical <em>Star Wars</em> fan (even though <em>The Force Awakens</em>&hellip;&hellip;.). I loved only the first season of <em>Mr Robot</em>. I loved <em>Heroes</em>, but I was happy when they shut it down too.</p>
+
+<p><br /></p>
 
 <p>I am happily married with a bright-lovely-genius Humanoid-Roboticist, <a href="https://twitter.com/gaijingeek">@gaijingeek</a>.</p>
 
-<p>I am studying Japanese, which is going to be my 4th language after Italian (mother tongue), English(fluent) and French (fluent).</p>
+<p><br /></p>
+
+<p>I am studying Japanese, which is going to be my 4th language after Italian (mother tongue), English (fluent) and French (fluent).</p>
+
+<p><br /></p>
 
 <p>I love photography. I was kind of a semi-professional wedding photographer for a few years in South France, where I also enjoyed landscape photography. My photos are on <a href="https://www.flickr.com/photos/alebaffa/">Flickr</a> and <a href="https://500px.com/alebaffa">500px</a>.</p>
+
+<p><br /></p>
 
 <p>I use heavily <a href="https://twitter.com/alebaffa">Twitter</a> and it&rsquo;s the best way to get in contact with me immediately.</p>
 
@@ -85,14 +107,13 @@ Simply put: I love to help people improve their skills.</p>
       <div>
         <h3>Hi, <a href="/about">I'm Alessandro</a></h3>
         <p>
-          Here you can place a short bio about yourself. Place a `bio.html` file in your
-project directory under `layout/partials`. That will override this message.
-
+          Welcome to my blog!
+Get in contact with me, drop me an email at <i>contact@alebaffa.com</i>.
         </p>
       </div>
       
       <div>
-          <h3><a href="https://www.flickr.com/photos/alebaffa/">Photo Stream</a></h3>
+          <h3><a href="https://www.flickr.com/photos/50161185@N04/">Photo Stream</a></h3>
           <div id="photos"></div>
         </div>
       </div>
@@ -117,7 +138,7 @@ project directory under `layout/partials`. That will override this message.
   
   $(function() {
     
-    $.getJSON("https://api.flickr.com/services/feeds/photos_public.gne?id=alebaffa&format=json&jsoncallback=?", function(data) {
+    $.getJSON("https://api.flickr.com/services/feeds/photos_public.gne?id=50161185@N04&format=json&jsoncallback=?", function(data) {
       iweblog.application.displayImages(data, 8);
     });
   });

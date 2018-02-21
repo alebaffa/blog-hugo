@@ -10,7 +10,7 @@ SectionPagesMenu = "main"
 	LastName = "Baffa"
 	AboutPage = "/about"
 	Location = "Tokyo, Japan"
-    FlickrID = "alebaffa"
+    FlickrID = "50161185@N04"
 
 [Taxonomies]
     tag = "tags"
