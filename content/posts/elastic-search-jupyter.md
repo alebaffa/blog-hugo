@@ -20,6 +20,8 @@ Increased visibility and knowledge sharing on Elasticsearch and how to handle qu
 
 Also, with Jupyter they can execute and see the result in the same view, step by step, for every line of code they write, so reducing dramatically the time spent to develop any python script that we need for data analysis in the team. Before it was kind of _trial and error until it worked_.
 
+Another great advantage is that we can now include code and text in the same notebook, extract it as markdown and store it into our internal Bitbucket (we don't have the notebook viewer plugin). They will become an incredible efficient and effective documentation that will help the team to improve its data analysis skills.
+
 ### Next steps
 
 Jupyter is great. My teammates were just blown away when they saw it and how it can improve our development workflow for data analysis tasks. Now the next step is to organize workshops or _coding dojos_ to practice with Pandas, Numpy and Tensorflow. Also, it would be cool to install [Jupyter Hub](https://jupyterhub.readthedocs.io/en/latest/) so that we can have a common environment where to share notebooks. Fortunately, there is also a Docker image for it:
