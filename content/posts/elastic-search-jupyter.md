@@ -7,6 +7,8 @@ date = "2018-02-22T19:59:13+09:00"
 type = "post"
 +++
 
+<img src="../../assets/images/notebook.jpg">
+
 I have been asked to extract data from Elasticsearch and I had no clue of what kind of data were stored inside of it. Moreover, there was a lack of documentation and the only thing that could help me were some old Python scripts written by an old colleague.
 
 Fortunately, Python is pretty damn good when it comes to readability.
