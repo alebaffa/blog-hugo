@@ -1,5 +1,5 @@
 +++
-title = "Software Craftsmanship Newsletter // Editor and creator"
+title = "[Project] Creator and editor of Software Craftsmanship Newsletter"
 description = "Monthly collection of interesting links for Professional Software Developers. More than 700 people registered."
 type = "project"
 +++

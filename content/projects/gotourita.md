@@ -1,5 +1,5 @@
 +++
-title = "Go Tour in Italian // Maintainer"
+title = "[Project] Maintainer of the Go Tour in Italian"
 description = "Italian translation of the Go Tour"
 +++
 
