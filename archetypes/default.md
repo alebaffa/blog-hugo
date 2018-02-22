@@ -1,9 +1,9 @@
----
-title: ""
-description: ""
++++
+title= ""
+description= ""
 author: "Alessandro"
-categories: ["",""]
-date: {{ .Date }}
-draft: true
-type: "post"
+categories= ["",""]
+date= {{ .Date }}
+draft= true
+type= "post"
 ---
