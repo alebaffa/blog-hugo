@@ -1,9 +1,9 @@
 +++
 title= ""
 description= ""
-author: "Alessandro"
+author= "Alessandro"
 categories= ["",""]
 date= {{ .Date }}
-draft= true
+draft= "true"
 type= "post"
----
++++
