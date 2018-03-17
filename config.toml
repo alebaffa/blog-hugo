@@ -6,6 +6,7 @@ googleAnalytics = "UA-114385313-1"
 preserveTaxonomyNames = true
 enableEmoji = true
 footnotereturnlinkcontents = "↩"
+disqusShortname = "alebaffacom"
 
 [permalinks]
     post = "/post/:year/:month/:day/:slug/"
