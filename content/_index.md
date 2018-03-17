@@ -2,7 +2,7 @@
 title: Home
 ---
 
-[<img src="../assets/images/logo.gif" style="max-width:15%;min-width:40px;float:right;" alt="Github repo" />](https://github.com/goodroot/hugo-classic)
+[<img src="../assets/images/logo.gif" style="max-width:15%;min-width:40px;float:right;" alt="Github repo" />](https://github.com/alebaffa)
 
 # Alessandro Baffa's weblog
 
