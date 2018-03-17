@@ -106,3 +106,6 @@ public class DemoApplicationTests {
 	}
 }
 ~~~
+
+### Download this example
+The entire source code is available [on my github](https://github.com/alebaffa/spring-boot-log4j2).
