@@ -1,8 +1,14 @@
 baseurl = "https://alebaffa.com/"
+languageCode = "en-us"
 title = "weblog"
-theme = "internet-weblog"
-pygmentsstyle = "emacs"
-SectionPagesMenu = "main"
+theme = "hugo-classic"
+googleAnalytics = "UA-114385313-1"
+preserveTaxonomyNames = true
+enableEmoji = true
+footnotereturnlinkcontents = "↩"
+
+[permalinks]
+    post = "/post/:year/:month/:day/:slug/"
 
 [author]
 	Handle = "alebaffa"
@@ -29,9 +35,8 @@ SectionPagesMenu = "main"
     post = "/:year/:month/:day/:filename/"
 
 [[menu.main]]
-    name = "Posts"
-    url = "/posts/"
-    identifier = "posts"
+    name = "About"
+    url = "about"
     weight = 1
 
 [[menu.main]]
@@ -41,7 +46,16 @@ SectionPagesMenu = "main"
     weight = 2
 
 [[menu.main]]
-    name = "Microposts"
-    url = "/microposts/"
-    identifier = "microposts"
+    name = "Categories"
+    url = "/categories/"
+    identifier = "categories"
     weight = 3
+
+[[menu.main]]
+    name = "Tags"
+    url = "/tags/"
+    weight = 4
+
+[[menu.feed]]
+    name = "Subscribe"
+    url = "/index.xml"

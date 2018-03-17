@@ -6,7 +6,7 @@ categories= ["jenkins","docker", "CI"]
 date= 2018-02-23T21:06:57+09:00
 type= "post"
 +++
-{{< image "ci.jpg" >}}
+<img src="../../assets/images/ci.jpg">
 
 ## Introduction
 I am going to write a set of posts that describe what I quickly talked about in the last **Docker Tokyo Meetup**. Though, this is not going to be focused on Docker only, but rather on all the challenges I found/I'm finding trying to set up the Continuous Integration for my team's project. Nevertheless, Docker played/is playing an important role and it has revealed some interesting things about the quality of the project itself, which I'm trying to fix. It's interesting to see what happens to an application when you lock it up into a container, not only because you can clearly detect the interactions with outside systems, but also to reveal some flaws in its internal architecture. 
