@@ -1,6 +1,4 @@
 +++
-author = "alebaffa"
-date = 2014-09-28
 title = "Hello! I'm Alessandro"
 menu = "navbar"
 +++
