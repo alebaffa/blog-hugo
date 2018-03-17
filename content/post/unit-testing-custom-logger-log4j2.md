@@ -1,5 +1,5 @@
 +++
-title= "Unit testing a custom logger wrapper in log4j2"
+title= "Unit testing a custom logger in log4j2"
 description= ""
 author= "Alessandro"
 categories= ["log4j","unit testing"]
