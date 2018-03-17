@@ -3,5 +3,5 @@
 	url = https://github.com/jnjosh/internet-weblog.git
 
 [submodule "themes/hugo-classic"]
-	path = themes/internet-weblog
+	path = themes/hugo-classic
 	url = https://github.com/goodroot/hugo-classic.git
