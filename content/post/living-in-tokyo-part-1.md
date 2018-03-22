@@ -34,6 +34,6 @@ _THEN_
 _END_
 ```
 
-Well, of course in every place in the world you will find also kind people in every situations, and total hassles in every situations. Anyway, it was shocking to me when I started to saw this dichotomy, but it's also something that gave me a new perspective. I realized that I've always expected certain behaviours from other people and I was judging them if my expectations were not matched. 
+Well, of course in every place in the world you will find also kind people in every situations, and total assholes in every situations. Anyway, it was shocking to me when I started to saw this dichotomy, but it's also something that gave me a new perspective. I realized that I've always expected certain behaviours from other people and I was judging them if my expectations were not matched. 
 
 I learned not to judge anymore people who I think are rude because they do not match my personal standards of _kindness_. They just don't even think about it. It's a profund cultural difference and that's how you have to take it.
