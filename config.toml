@@ -1,7 +1,7 @@
 baseurl = "https://alebaffa.com/"
 languageCode = "en-us"
-title = "weblog"
-theme = "hugo-classic"
+title = "alebaffa's weblog"
+theme = "hyde"
 googleAnalytics = "UA-114385313-1"
 preserveTaxonomyNames = true
 enableEmoji = true
@@ -31,6 +31,8 @@ disqusShortname = "alebaffa"
 	RSSSections = [ "Posts", "Microposts", "Photos" ]
     RSSMicropostTitles = false
     dateFormat = "02/01/2006"
+    themeColor = "theme-base-0d"
+    pygmentsCodeFences = "true"
 
 [Permalinks]
     post = "/:year/:month/:day/:filename/"
