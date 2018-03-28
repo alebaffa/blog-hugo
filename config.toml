@@ -33,6 +33,7 @@ disqusShortname = "alebaffa"
     dateFormat = "02/01/2006"
     themeColor = "theme-base-0d"
     pygmentsCodeFences = "true"
+    pygmentsStyle = "monokai"
 
 [Permalinks]
     post = "/:year/:month/:day/:filename/"
