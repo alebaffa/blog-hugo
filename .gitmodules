@@ -1,15 +1,3 @@
-[submodule "themes/internet-weblog"]
-	path = themes/internet-weblog
-	url = https://github.com/jnjosh/internet-weblog.git
-
-[submodule "themes/hugo-classic"]
-	path = themes/hugo-classic
-	url = https://github.com/goodroot/hugo-classic.git
-
-[submodule "themes/hyde"]
-	path = themes/hyde
-	url = https://github.com/spf13/hyde.git
-
 [submodule "themes/coder"]
 	path = themes/coder
 	url = https://github.com/luizdepra/hugo-coder.git
