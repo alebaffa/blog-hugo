@@ -1,60 +1,92 @@
-baseurl = "https://alebaffa.com/"
-languageCode = "en-us"
-title = "alebaffa's weblog"
-theme = "hyde"
-googleAnalytics = "UA-114385313-1"
-preserveTaxonomyNames = true
-enableEmoji = true
-footnotereturnlinkcontents = "↩"
+baseurl = "https://www.alebaffa.com"
+title = "Alessandro Baffa"
+
+theme = "coder"
+
+languagecode = "en"
+
+paginate = 20
+canonifyurls = true
+
+pygmentsstyle = "b2"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
+
 disqusShortname = "alebaffa"
 
-[permalinks]
-    post = "/post/:year/:month/:day/:slug/"
+[params]
+    author = "Alessandro Baffa"
+    description = "Alessandro's personal website"
+    keywords = "blog,developer,personal"
+    info = "Computer Enginer"
+    avatarurl = "images/avatar.jpg"
+    footercontent = ""
 
-[author]
-	Handle = "alebaffa"
-	FirstName = "Alessandro"
-	LastName = "Baffa"
-	AboutPage = "/about"
-	Location = "Tokyo, Japan"
-    FlickrID = "50161185@N04"
+    hideCredits = false
+    hideCopyright = false
 
-[Taxonomies]
-    tag = "tags"
-    category = "categories"
-    series = "series"
 
-[Params]
-	Description = "Computer science is no more about computers than astronomy is about telescopes"
-	ShowCopyright = true
-	RSSEnabled = true
-	RSSSections = [ "Posts", "Microposts", "Photos" ]
-    RSSMicropostTitles = false
-    dateFormat = "02/01/2006"
-    themeColor = "theme-base-0d"
-    pygmentsCodeFences = "true"
-    pygmentsStyle = "monokai"
+    # Custom CSS
+    custom_css = []
 
-[Permalinks]
-    post = "/:year/:month/:day/:filename/"
+    # Alignment of Mobile Menu items
+    itemscentered = true
+
+    # RTL support
+    rtl = false
+
+    langseparator = "|"
+
+[[params.social]]
+    name = "Github"
+    weight = 1
+    url = "https://github.com/alebaffa/"
+[[params.social]]
+    name = "Twitter"
+    weight = 2
+    url = "https://twitter.com/alebaffa/"
+[[params.social]]
+    name = "LinkedIn"
+    weight = 3
+    url = "https://www.linkedin.com/in/alessandrobaffa/"
+[[params.social]]
+    name = "Medium"
+    weight = 4
+    url = "https://medium.com/@alebaffa"
 
 [[menu.main]]
-    name = "About"
-    url = "about"
+    name = "Blog"
     weight = 1
-
+    url  = "/posts/"
 [[menu.main]]
     name = "Projects"
-    url = "/projects/"
-    identifier = "projects"
     weight = 2
+    url = "/projects/"
 
-[[menu.main]]
-    name = "Categories"
-    url = "/categories/"
-    identifier = "categories"
-    weight = 3
+[languages]
+    [languages.en]
+        languagename = "English" # The language name to be displayed in the selector.
+        title = "Alessandro Baffa"
 
-[[menu.feed]]
-    name = "Subscribe"
-    url = "/index.xml"
+        # You can configure the theme parameter for each language.
+        [languages.en.params]
+        author = "Alessandro Baffa"
+        info = "Computer Engineer"
+        description = "Alessandro's personal website"
+        keywords = "blog,developer,personal"
+
+        [languages.en.menu] # It is possible to change the menu too.
+
+        [[languages.en.menu.main]]
+        name = "Blog"
+        weight = 2.0
+        url = "/posts/"
+
+        [[languages.en.menu.main]]
+        name = "Projects"
+        weight = 3
+        url = "/projects/"
+        [[languages.en.menu.main]]
+        name = "Contact me"
+        weight = 5
+        url = "/contact/"
