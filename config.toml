@@ -52,7 +52,7 @@ disqusShortname = "alebaffa"
 [[params.social]]
     name = "Medium"
     weight = 4
-    url = "https://medium.com/@alebaffa"
+    url = "https://medium.com/alebaffa-blog"
 
 [[menu.main]]
     name = "Blog"
