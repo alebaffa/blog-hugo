@@ -7,7 +7,7 @@ draft: false
 The first month in my new job is passed and I just wanted to write down my impressions about it.
 
 ## IoT
-I knew that IoT was interesting, but I honestly had no idea of the magnitude it had and how fast this market is growing. As an engineer, it is perhaps one the most interesting fields to be in. All the _Information Engineerings_ are mixed together trying to make everything work on the _edge_. Lots of things are changing fast and there's still not a single company that found the _magic wand_, so there's a lot to be done and huge market opportunities that needs to be filled. This field is exploding, right now.
+I knew that IoT was interesting, but I honestly had no idea of the magnitude it had and how fast this market is growing. As an engineer, it is perhaps one the most interesting fields to be in. All the _Information Engineerings_ are mixed together trying to make everything work on the _edge_. Lots of things are changing fast and there's still not a single company that found the _magic wand_, so there's a lot to be done, lots of gaps that need to be filled and huge market opportunities everywhere. This field is exploding, right now.
 
 I'm lucky because I feel I am in a priviledged position, since the company I work for provides both hardware and software for IoT. As Solution Architect I can see where the market is going, what the industry needs and I'm learning *a lot* of new stuff, all without losing touch with my technical background, code and infrastructure.
 
