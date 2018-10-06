@@ -13,7 +13,9 @@ I'm lucky because I feel I am in a priviledged position, since the company I wor
 
 I am spending time with machine/deep learning, but from the hardware point of view. As a pure software engineer I was interested to algorithms, neural networks, code and libraries, while now I am focused on how to run it on less powerful machines: the hardware you need, chip optimizations, performance, technical different between training and inference, differences/benefits of different GPUs, architectures, VPU, APU, CPU, FPGA, etc.. .
 
-I discovered the [Eclipse IoT](https://iot.eclipse.org/) project and it's really cool (disclosure: [the group my company belongs to](https://iot.eclipse.org/working-group/) is one of the founding member).
+I discovered the [Eclipse IoT](https://iot.eclipse.org/) project and it's really cool (disclosure: [the group my company belongs to](https://iot.eclipse.org/working-group/) is one of the founding member). I am going in depth in Eclipse Kura and Kapua, the open source projects on top
+
+I am becoming an expert of
 
 There are many other things I am following, both from market and technical point of view, and autonomous driving is one of those.
 
