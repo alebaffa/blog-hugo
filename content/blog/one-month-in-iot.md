@@ -22,7 +22,7 @@ I am discovering entire new worlds. I feel I am in the right place at the right 
 ## Challenges (and opportunities)
 Many, in both:
 
-- The language is a challenge. I am speeding up my Japanese skills, which are at level _zero+_ at the moment;
+- The language is a challenge. I am speeding up with my Japanese skills;
 
 - I have a native understanding of the complexity of the software and the concept of _software as a service_. This helps a lot when it comes to gather the requirements from potential clients. In a hardware company is a good skill to bring;
 
