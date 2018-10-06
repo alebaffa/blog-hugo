@@ -13,12 +13,11 @@ I'm lucky because I feel I am in a priviledged position, since the company I wor
 
 I am spending time with machine/deep learning, but from the hardware point of view. As a pure software engineer I was interested to algorithms, neural networks, code and libraries, while now I am focused on how to run it on less powerful machines: the hardware you need, chip optimizations, performance, technical different between training and inference, differences/benefits of different GPUs, architectures, VPU, APU, CPU, FPGA, etc.. .
 
-Also, I discovered the [Eclipse IoT](https://iot.eclipse.org/) project and it's really cool (disclosure: [the group my company belongs to](https://iot.eclipse.org/working-group/) is one of the founding member).
+I discovered the [Eclipse IoT](https://iot.eclipse.org/) project and it's really cool (disclosure: [the group my company belongs to](https://iot.eclipse.org/working-group/) is one of the founding member).
 
-I am following closely the autonomous driving scenario here in Japan. I am learning lots of technical and market stuff about it.
+There are many other things I am following, both from market and technical point of view, and autonomous driving is one of those.
 
 I started to follow the so called [HyperConverged Infrastructure](https://en.wikipedia.org/wiki/Hyper-converged_infrastructure) and it's super fascinating to see how IoT is influencing the R&D of lots of engineering fields.
-
 
 In conclusion: I am discovering entire new worlds. And I'm so happy. I feel I am in the right place at the right time, professionally speaking.
 
@@ -33,7 +32,7 @@ Many, in both:
 
 - I am learning lots of stuff about hardware and electronics. And my wife is super happy about it :) 
 
-- I am _enjoying_ the real _japanese salaryman lifestyle_
+- I am _enjoying_ the real _japanese salaryman lifestyle_ </sarcasm>
 
 
 In two words: I'm happy.
