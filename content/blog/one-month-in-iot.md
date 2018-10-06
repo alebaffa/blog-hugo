@@ -11,7 +11,7 @@ I knew that IoT was interesting, but I honestly had no idea of the magnitude it 
 
 I'm lucky because I feel I am in a priviledged position, since the company I work for provides both hardware and software for IoT. As Solution Architect I can see where the market is going, what the industry needs and I'm learning *a lot* of new stuff, all without losing touch with my technical background, code and infrastructure.
 
-I am spending time with machine/deep learning, but from the hardware point of view. As a pure software engineer I was interested to algorithms, neural networks, code and libraries, while now I am focused on how to run it on less powerful machines: the hardware you need, chip optimizations, performance, technical different between training and inference, differences/benefits of different GPUs, architectures, VPU, APU, CPU, FPGA, etc.. .
+I am spending time with machine/deep learning, but from the hardware point of view. As a pure software engineer I was interested to algorithms, neural networks, code and libraries, while now I am focused on how to run it on less powerful machines: the hardware you need, chip optimizations, performance, technical differences between training and inference, differences/benefits of different GPUs, architectures, VPU, APU, CPU, FPGA, etc.. .
 
 I discovered the [Eclipse IoT](https://iot.eclipse.org/) project and it's really cool (disclosure: [the group my company belongs to](https://iot.eclipse.org/working-group/) is one of the founding member).
 
