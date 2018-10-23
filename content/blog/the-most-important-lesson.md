@@ -3,6 +3,7 @@ title: "The Two Most Important Lessons"
 date: 2018-10-21T20:14:56+09:00
 draft: false
 ---
+<img src="../../../img/grow.jpg"/>
 
 There are two experiences in my life that i can clearly define as _cornerstones_, two moments that defined my personality as it is now. The first was during my studies at university in Italy, the second was during my last two years at work in south France. I know they may sound stupid to you, but .. hey, it's my blog, right? ;)
 

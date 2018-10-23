@@ -6,7 +6,6 @@ categories = ["conferences"]
 title = "Global Day of Coderetreat 2016, Sophia Antipolis, France"
 type= "post"
 +++
-<img src="../../../../img/coderetreat-1.jpeg"/>
 
 We did it! The Global Day of Coderetreat in Sophia Antipolis has been a great success! My first coderetreat ever, and I played the role of the organizer and facilitator. 
 It’s an event that I started to organize in August and I have been lucky to find the support of the [University of Nice-Sophia Antipolis](http://unice.fr/en) and my company, [Amadeus IT Group](http://www.amadeus.com/web/amadeus/en_1A-corporate/Amadeus-Home/1319560218660-Page-AMAD_HomePpal). In the organization of all this I have been hugely helped by other people who have been facilitators with me (we were 3 facilitators, 1 host and 2 facilitators/helpers).
