@@ -10,9 +10,29 @@ author = "Alessandro Baffa"
 title = "Alessandro Baffa's weblog"
 disqusshortname = "alebaffa"
 pluralizelisttitles = false
+hasCJKLanguage = true
+
+disableHugoGeneratorInject = true
+enableEmoji = true
+footnoteReturnLinkContents = "↩"
+googleAnalytics = "UA-114385313-1"
 
 [permalinks]
 blog = "blog/:slug/"
+
+[menu]
+
+  [[menu.main]]
+    identifier = "home"
+    name = "Home"
+    url = "/"
+    weight = 10
+
+  [[menu.main]]
+    identifier = "posts"
+    name = "Posts"
+    url = "/posts"
+    weight = 20
 
 [params]
 enlarged = true
@@ -32,6 +52,7 @@ share = true
 latestpostcount = 25
 github = "alebaffa"
 email = "contact@alebaffa.com"
+medium = "alebaffa"
 linkedin = "alessandrobaffa"
 twitter = "alebaffa"
 facebook = "alessandro.baffa"
