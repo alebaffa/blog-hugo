@@ -1,4 +1,5 @@
-baseurl = "https://www.alebaffa.com/"
+#baseurl = "https://www.alebaffa.com/"
+baseurl = "/"
 theme = "cocoa-eh"
 builddrafts = true
 canonifyurls = true
