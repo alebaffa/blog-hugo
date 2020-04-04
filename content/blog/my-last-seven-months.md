@@ -5,6 +5,7 @@ author = ""
 categories = ["personal"]
 date = "2018-01-25"
 type= "post"
+draft = true
 +++
 
 I started my journey at Rakuten in June 2017 and, more precisely, I am Full Stack Engineer working for [Rakuten Magazine](https://magazine.rakuten.co.jp/). It's a pretty new Web project, so it's not big and we are very few people: 4 guys focused on Web and API (myself included), and 3 guys on Android/iOS.
