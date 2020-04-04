@@ -23,17 +23,17 @@ linkedin = "alessandrobaffa"
 twitter = "alebaffa"
 email = "contact@alebaffa.com"
 
-[[menu.primary]]
-identifier = "blog"
-name = "Blog"
-url = "/blog/"
-weight = 10
+#[[menu.primary]]
+#identifier = "blog"
+#name = "Blog"
+#url = "/blog/"
+#weight = 10
 
-[[menu.primary]]
-identifier = "about"
-name = "About"
-url = "/about/"
-weight = 20
+#[[menu.primary]]
+#identifier = "about"
+#name = "About"
+#url = "/about/"
+#weight = 20
 
 #[[menu.secondary]]
 #identifier = "patreon"
