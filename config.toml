@@ -4,15 +4,15 @@ canonifyurls = true
 #copyright = "Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved."
 paginate = 5
 theme = "alageek"
-title = "sha2-256-256-a2cab2ed3b"
+title = "A Decentralized Blog"
 
 [params]
 copyright = "© 2020 by Alessandro Baffa"
 copyrightUrl = "https://www.alebaffa.com"
 description = "Alessandro Baffa website"
-faviconfile = "img/ale.jpg"
+#faviconfile = "img/ale.jpg"
 latestpostcount = 25
-logofile = "img/ale.jpg"
+#logofile = "img/ale.jpg"
 highlightjs = true
 highlightjslanguages = [ "bash", "css", "diff", "java", "javascript", "python", "golang" ]
 toc = true
