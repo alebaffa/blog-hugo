@@ -1,0 +1,45 @@
+{{ $isTocEnabled := .Scratch.Get "isTocEnabled" }}
+
+<div class="my-4 my-md-5 header">
+    <div class="container">
+        <div class="row">
+            <div class="col-auto{{ if not $isTocEnabled }} offset-lg-1{{ end }} d-none d-md-block">
+                {{ if .Site.Params.logofile }}
+                    <a href="{{ .Site.BaseURL }}">
+                        <img class="logo" src="{{ .Site.Params.logofile | absURL }}" alt="logo">
+                    </a>
+                {{ end }}
+            </div>
+            <div class="col-auto align-self-center mr-auto">
+                <a href="{{ .Site.Home.Permalink }}">
+                    <blockquote class="blockquote">
+                        <p class="mb-1 display-4">{{ .Site.Title }}</p>
+                        <footer class="blockquote-footer">The spoon was a non-fungible token</footer>
+                    </blockquote>
+                </a>
+
+                <ul class="nav nav-primary">
+                    {{ range .Site.Menus.primary.ByWeight }}
+                        <li class="nav-item">
+                            <a class="text-uppercase nav-link{{ if .Identifier }} text-{{ .Identifier }}{{ end }}" href="{{ .URL }}">
+                                {{ .Pre }}
+                                {{ .Name }}
+                            </a>
+                        </li>
+                    {{ end }}
+                </ul>
+
+                <ul class="nav nav-secondary">
+                    {{ range .Site.Menus.secondary.ByWeight }}
+                        <li class="nav-item">
+                            <a class="text-uppercase font-weight-bold nav-link{{ if .Identifier }} text-{{ .Identifier }}{{ end }}" href="{{ .URL }}">
+                                {{ .Pre }}
+                                {{ .Name }}
+                            </a>
+                        </li>
+                    {{ end }}
+                </ul>
+            </div>
+        </div>
+    </div>
+</div>
