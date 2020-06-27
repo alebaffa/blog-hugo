@@ -8,18 +8,6 @@
                     <div class="markdown">
                         {{ partial "content" . }}
                     </div>
-                    <div class="my-4 footer">
-                    <div class="row justify-content-center">
-                        <div class="col-lg-3 ">
-                                {{ partial "footer_github" . }}
-                                {{ partial "footer_twitter" . }}
-                                {{ partial "footer_mastodon" . }}
-                                {{ partial "footer_linkedin" . }}
-                                {{ partial "footer_email" . }}
-                                {{ partial "footer_rss" . }}
-                        </div>
-                    </div>
-                </div>
                     {{ if isset .Site.Params "latestpostcount" }}
                         <div class="mx-0 mx-md-4 posts">
                             {{ $nbPosts := len (where .Site.RegularPages "Section" "blog") }}
