@@ -5,6 +5,7 @@ canonifyurls = true
 paginate = 5
 theme = "alageek"
 title = "Decentralized Engineering"
+relativeUrls = "true"
 
 [params]
 copyright = "© 2020 by Alessandro Baffa"
