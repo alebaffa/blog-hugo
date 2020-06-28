@@ -4,7 +4,7 @@ description = ""
 categories = ["personal", "programming"]
 title = "The Paradox Of Choice In Learning to Code"
 type= "post"
-
+draft = "true"
 +++
 
 I was talking with a guy some days ago and it went like this:

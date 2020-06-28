@@ -5,6 +5,7 @@ author= "Alessandro"
 categories= ["spring-boot","log4j2","unit test"]
 date= 2018-03-23T23:02:43+09:00
 type= "post"
+draft = "true"
 +++
 Last time I wrote a post about [how to unit test a custom logger with log4j2](https://www.alebaffa.com/2018/03/17/unit-testing-custom-logger-log4j2/). Today I migrated another custom logger from log4j 1.x to log4j 2.x, but this time it was encapsulated in a Spring Boot component as a static class attribute.
 

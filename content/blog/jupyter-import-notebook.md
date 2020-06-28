@@ -5,6 +5,7 @@ author= "Alessandro"
 categories= ["jupyter-notebook"]
 date= 2018-02-27T19:57:31+09:00
 type= "post"
+draft = "true"
 +++
 Yesterday I published a post about [how to create a module in jupyter](https://www.alebaffa.com/posts/create_modules_in_jupyter_notebooks/). 
 

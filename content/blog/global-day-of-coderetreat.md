@@ -5,6 +5,7 @@ description = ""
 categories = ["conferences"]
 title = "Global Day of Coderetreat 2016, Sophia Antipolis, France"
 type= "post"
+draft = "true"
 +++
 
 We did it! The Global Day of Coderetreat in Sophia Antipolis has been a great success! My first coderetreat ever, and I played the role of the organizer and facilitator. 

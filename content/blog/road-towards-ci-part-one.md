@@ -5,6 +5,7 @@ author= "Alessandro"
 categories= ["jenkins","docker", "CI"]
 date= 2018-02-23T21:06:57+09:00
 type= "post"
+draft = "true"
 +++
 <img src="../../assets/images/ci.jpg">
 

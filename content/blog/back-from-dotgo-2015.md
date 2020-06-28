@@ -5,6 +5,7 @@ title = "Back from dotgo 2015"
 tags = ["golang", "conferences"]
 categories = ["conferences", "golang"]
 type= "post"
+draft = "true"
 +++
 ![alt text](../../../../img/dotgo.jpeg "dotgo2015")
 
