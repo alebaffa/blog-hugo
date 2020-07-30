@@ -1,19 +1,30 @@
 author = "Alessandro Baffa"
 baseurl = "/"
+languageCode = "en-us"
 canonifyurls = true
 #copyright = "Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved."
 paginate = 5
-theme = "alageek"
-title = "Decentralized Engineering"
+copyright = "You"
+theme = "hugo-theme-cactus"
+title = "alebaffa.eth"
 relativeUrls = "true"
 
 [params]
-copyright = "© 2020 by Alessandro Baffa"
+#copyright = "© 2020 by Alessandro Baffa"
+colortheme = "white" # dark, light, white, or classic
+  rss = true # generate rss feed. default value is false
 copyrightUrl = "https://www.alebaffa.com"
-description = "Alessandro Baffa website"
+description = "Hi, I'm Alessandro Baffa, software engineer and blockchain solution architect from Italy and based in Tokyo. In this blog I post technical contents about my learnings in blockchain, decentralization and web 3.0."
+mainSection = "blog" # your main section
 #faviconfile = "img/ale.jpg"
 latestpostcount = 25
 #logofile = "img/ale.jpg"
+showAllPostsOnHomePage = false # default
+postsOnHomePage = 15 # this option will be ignored if showAllPostsOnHomePage is set to true
+tagsOverview = false # show tags overview by default.
+showProjectsList = true # show projects list by default (if projects data file exists).
+projectsUrl = "https://github.com/gohugoio" # title link for projects list
+
 highlightjs = true
 highlightjslanguages = [ "bash", "css", "diff", "java", "javascript", "python", "golang" ]
 toc = true
@@ -23,6 +34,39 @@ github = "alebaffa"
 linkedin = "alessandrobaffa"
 twitter = "alebaffa"
 email = "contact@alebaffa.com"
+
+[params.comments]
+    enabled = false # default
+    engine = "disqus" # more supported engines will be added.
+
+  # the value of name should be an valid font awesome icon name (brands type)
+  # https://fontawesome.com/icons?d=gallery&s=brands
+  [[params.social]]
+    name = "github"
+    link = "https://github.com/alebaffa"
+  [[params.social]]
+    name = "linkedin"
+    link = "https://www.linkedin.com/in/alessandrobaffa/"
+  [[params.social]]
+    name = "email"
+    link = "contact@alebaffa.com"  # no need for "mailto:" in the head
+
+
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[menu.main]]
+name = "Posts"
+url = "/blog"
+weight = 2
+
+[markup]
+  [markup.tableOfContents]
+    endLevel = 4
+    ordered = false
+    startLevel = 2
 
 #[[menu.primary]]
 #identifier = "blog"
