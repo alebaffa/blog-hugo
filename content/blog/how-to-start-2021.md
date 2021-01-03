@@ -13,7 +13,7 @@ description: ""
 
 I wish everybody to be able to reframe their priorities following what 2020 has abruptly reminded us:
 
-- be flexible and skilled enough to be ready for sudden changes and adjustments, both personally and professionally;
+- be flexible and skilled enough to be ready for sudden changes and adjustments, both personally and professionally. Don't wait to change if things are not working as expected;
 - be rational, calm, open minded and welcoming to any challenge, both physical and intellectual. Learn what is the scientific method and use it;
 - prioritize quality over quantity;
 - appreciate what you have and strive to give back what/when/how you can;
