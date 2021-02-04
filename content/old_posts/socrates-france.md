@@ -5,7 +5,7 @@ description = ""
 categories = ["conferences"]
 title = "Back from SoCraTes France 2016"
 type= "post"
-draft = "true"
+draft = "false"
 +++
 <img src="../../../../img/socratesfr-1.jpeg"/>
 

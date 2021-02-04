@@ -11,7 +11,7 @@ relativeUrls = "true"
 
 [params]
 #copyright = "© 2020 by Alessandro Baffa"
-colortheme = "white" # dark, light, white, or classic
+colortheme = "dark" # dark, light, white, or classic
   rss = true # generate rss feed. default value is false
 copyrightUrl = "https://www.alebaffa.com"
 description = "Hi, I'm Alessandro Baffa, software engineer and blockchain solution architect from Italy and based in Tokyo. In this blog I post technical contents about my learnings in blockchain, decentralization and web 3.0."

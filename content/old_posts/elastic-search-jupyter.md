@@ -5,7 +5,7 @@ author = "Alessandro"
 categories = ["elasticsearch","jupyter-notebook"]
 date = "2018-02-22T19:59:13+09:00"
 type = "post"
-draft = "true"
+draft = "false"
 +++
 
 <img src="../../assets/images/notebook.jpg">
