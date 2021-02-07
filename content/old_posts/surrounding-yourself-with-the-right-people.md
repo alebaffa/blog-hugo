@@ -4,7 +4,7 @@ description = ""
 title = "Surrounding yourself with the right people"
 categories = ["personal"]
 type= "post"
-draft = true
+draft = false
 
 +++
 ![alt text](../../../../img/cerini.jpeg "passion")

@@ -5,7 +5,7 @@ description = "My first time at a SoCraTes conference"
 categgories = ["conferences"]
 title = "A Community of Professionals - SoCraTes UK"
 type= "post"
-draft = "true"
+draft = "false"
 +++
 <img src="../../../../img/socrates.png" alt="socrates place" style="width: 300px; margin-right: 15px;" align="left"/>
 

@@ -1,7 +1,7 @@
 ---
 title: "The Two Most Important Lessons"
 date: 2018-10-21T20:14:56+09:00
-draft: true
+draft: false
 ---
 <img src="../../../img/grow.jpg"/>
 

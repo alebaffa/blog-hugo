@@ -2,11 +2,8 @@
 title: "A Decentralized Blog"
 date: 2020-06-27T15:35:00+09:00
 draft: false
-meta_img: "img/ipfs.png"
 tags: ["ipfs"]
 description: "Blog hosted on IPFS"
-hacker_news_id: ""
-lobsters_id: ""
 ---
 This blog is now hosted on [IPFS](https://ipfs.io/), the Interplanetary Filesystem. 
 
