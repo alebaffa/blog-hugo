@@ -1,7 +1,7 @@
 ---
 title: "New job: first month"
 date: 2018-10-01T22:36:14+09:00
-draft: false
+draft: true
 tags: ["personal"]
 ---
 
