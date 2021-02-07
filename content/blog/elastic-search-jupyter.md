@@ -2,9 +2,8 @@
 title = "Improving the development experience: Jupyter for Elasticsearch"
 description = "A jupyter notebook with a simple ES client (with proxy setting)"
 author = "Alessandro"
-categories = ["elasticsearch","jupyter-notebook"]
+tags = ["elasticsearch","jupyter-notebook"]
 date = "2018-02-22T19:59:13+09:00"
-type = "post"
 draft = "false"
 +++
 

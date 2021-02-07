@@ -2,7 +2,7 @@
 title: "Amarcord - Old posts from 2007 (ITA)"
 date: 2007-09-08T08:49:18+09:00
 draft: false
-tags: ["general"]
+tags: [""]
 description: ""
 ---
 # Posts from 2007

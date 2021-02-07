@@ -2,9 +2,8 @@
 title = "My current learning journey"
 description = ""
 author = ""
-categories = ["personal"]
+tags = ["personal"]
 date = "2018-01-25"
-type= "post"
 draft = false
 +++
 

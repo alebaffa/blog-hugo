@@ -2,7 +2,7 @@
 title: "Amarcord - Old posts from 2009 (ITA)"
 date: 2009-02-07T10:05:04+09:00
 draft: false
-tags: ["general"]
+tags: [""]
 description: ""
 ---
 ## February

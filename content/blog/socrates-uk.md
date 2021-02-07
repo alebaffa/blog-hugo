@@ -2,9 +2,8 @@
 author = "alebaffa"
 date = "2016-06-19T21:28:33+02:00"
 description = "My first time at a SoCraTes conference"
-categgories = ["conferences"]
+tags = ["conferences"]
 title = "A Community of Professionals - SoCraTes UK"
-type= "post"
 draft = "false"
 +++
 <img src="../../../../img/socrates.png" alt="socrates place" style="width: 300px; margin-right: 15px;" align="left"/>

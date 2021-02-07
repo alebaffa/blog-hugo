@@ -2,6 +2,7 @@
 title: "New job: first month"
 date: 2018-10-01T22:36:14+09:00
 draft: false
+tags: ["personal"]
 ---
 
 The first month in my new job is passed and I just wanted to write down my impressions about it.

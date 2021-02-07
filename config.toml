@@ -2,38 +2,32 @@ author = "Alessandro Baffa"
 baseurl = "/"
 languageCode = "en-us"
 canonifyurls = true
-#copyright = "Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved."
+copyright = "Alessandro Baffa; some rights reserved."
 paginate = 25
-copyright = "You"
 theme = "hugo-theme-cactus"
 title = "alebaffa.eth"
 relativeUrls = "true"
 
 [params]
-#copyright = "© 2020 by Alessandro Baffa"
-colortheme = "dark" # dark, light, white, or classic
+  colortheme = "dark" # dark, light, white, or classic
   rss = true # generate rss feed. default value is false
-copyrightUrl = "https://www.alebaffa.com"
-description = "Hi, I'm Alessandro Baffa, Software Engineer and Solutions Architect from Italy, now based in Tokyo. This is my personal blog, it lived multiple lives since 2007. My current interests are Cloud Computing, Blockchain and Web 3.0"
-mainSection = "blog" # your main section
-#faviconfile = "img/ale.jpg"
-latestpostcount = 25
-#logofile = "img/ale.jpg"
-showAllPostsOnHomePage = true # default
-postsOnHomePage = 15 # this option will be ignored if showAllPostsOnHomePage is set to true
-tagsOverview = false # show tags overview by default.
-showProjectsList = true # show projects list by default (if projects data file exists).
-projectsUrl = "https://github.com/gohugoio" # title link for projects list
+  description = "Hi, I'm Alessandro Baffa, Software Engineer and Solutions Architect from Italy, now based in Tokyo. This is my personal blog, it lived multiple lives since 2007. My current interests are Cloud Computing, Blockchain and Web 3.0"
+  mainSection = "blog" # your main section
+  latestpostcount = 25
+  showAllPostsOnHomePage = true # default
+  postsOnHomePage = 15 # this option will be ignored if showAllPostsOnHomePage is set to true
+  tagsOverview = true # show tags overview by default.
+  showProjectsList = false # show projects list by default (if projects data file exists).
+  projectsUrl = "https://github.com/gohugoio" # title link for projects list
 
-highlightjs = true
-highlightjslanguages = [ "bash", "css", "diff", "java", "javascript", "python", "golang" ]
-toc = true
-posts_navigation = true
-progressively = true
-github = "alebaffa"
-linkedin = "alessandrobaffa"
-twitter = "alebaffa"
-email = "contact@alebaffa.com"
+  highlightjs = true
+  highlightjslanguages = [ "bash", "css", "diff", "java", "javascript", "python", "golang" ]
+  toc = true
+  posts_navigation = true
+  progressively = true
+  github = "alebaffa"
+  linkedin = "alessandrobaffa"
+  twitter = "alebaffa"
 
 [params.comments]
     enabled = false # default
@@ -47,10 +41,6 @@ email = "contact@alebaffa.com"
   [[params.social]]
     name = "linkedin"
     link = "https://www.linkedin.com/in/alessandrobaffa/"
-  [[params.social]]
-    name = "email"
-    link = "contact@alebaffa.com"  # no need for "mailto:" in the head
-
 
 [[menu.main]]
 name = "Home"
@@ -96,4 +86,4 @@ weight = 2
 identifier = "tags"
 name = "Tags"
 url = "/tags/"
-weight = 50
+weight =3

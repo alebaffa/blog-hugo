@@ -2,10 +2,9 @@
 title= "Unit testing a custom logger in log4j2"
 description= ""
 author= "Alessandro"
-categories= ["log4j","unit testing"]
+tags= ["log4j","unit test"]
 date= 2018-03-17T13:55:46+09:00
 draft= "false"
-type= "post"
 +++
 
 In this period I'm upgrading a Spring Boot project from 1.3 --> 1.5 --> 2.0. One of the steps is to get rid of log4j 1.x. 

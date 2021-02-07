@@ -2,7 +2,7 @@
 title: "Amarcord - Old posts from 2011 (ITA/ENG)"
 date: 2011-02-07T10:37:06+09:00
 draft: false
-tags: ["general"]
+tags: [""]
 description: ""
 ---
 ### >> Non ci penso un attimo: faccio benzina in Svizzera.

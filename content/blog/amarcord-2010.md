@@ -2,7 +2,7 @@
 title: "Amarcord - Old posts from 2010 (ITA)"
 date: 2010-02-07T10:07:16+09:00
 draft: false
-tags: ["general"]
+tags: [""]
 description: ""
 ---
 ## September 2010

@@ -2,11 +2,8 @@
 title = "Dependency Injection VS Extract and Override Factory Method"
 description = "Two ways of solving the Racing Car kata - Text converter"
 author = "alebaffa"
-tags = [
-]
 date = "2016-10-09T21:17:23+02:00"
-categories = ["code-kata", "refactoring"]
-type= "post"
+tags = ["refactoring"]
 draft = "false"
 +++
 

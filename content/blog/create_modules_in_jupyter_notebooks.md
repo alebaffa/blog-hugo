@@ -2,9 +2,8 @@
 title= "Create modules in Jupyter notebooks"
 description= ""
 author= "Alessandro"
-categories= ["jupyter-notebook","python"]
+tags= ["jupyter-notebook","python"]
 date= 2018-02-26T21:38:37+09:00
-type= "post"
 draft = "false"
 +++
 In my current attempt to improve the development experience of my team, I am trying to introduce Jupyter notebooks to share knowledge about some data analysis scripts developed over the last years. I can copy paste the code into a notebook, run the single cells to show the result below the code, export the notebook as markdown and push it to Bitbucket: voila, documentation. 

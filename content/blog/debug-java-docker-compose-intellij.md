@@ -2,9 +2,8 @@
 title= "Debug a Java Spring Boot application in Docker from IntelliJ"
 description= ""
 author= "Alessandro"
-categories= ["java","IntelliJ", "docker-compose", "debug"]
+tags= ["java","IntelliJ", "docker-compose", "debug"]
 date= 2018-02-28T23:19:11+09:00
-type= "post"
 draft = "false"
 +++
 You have a Java Spring Boot application built with Gradle in a Docker container and you need to debug it from your favorite IDE on your host machine (IntelliJ).  

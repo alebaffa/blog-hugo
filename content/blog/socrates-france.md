@@ -2,9 +2,8 @@
 author = "alebaffa"
 date = "2016-10-31T12:29:46+02:00"
 description = ""
-categories = ["conferences"]
+tags = ["conferences"]
 title = "Back from SoCraTes France 2016"
-type= "post"
 draft = "false"
 +++
 <img src="../../../../img/socratesfr-1.jpeg"/>

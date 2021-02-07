@@ -1,11 +1,9 @@
 +++
 date = "2017-02-18T08:03:16+01:00"
 tags = ["personal"]
-categories = ["personal"]
 author = "alebaffa"
 description = "I am moving to Japan after 7 years in France"
 title = "Changing Everything. Again."
-type= "post"
 draft = false
 +++
 
