@@ -1,8 +1,8 @@
 ---
 title: "On NFT (2 part)"
 date: 2021-03-10T08:17:31+09:00
-draft: true
-tags: ["general"]
+draft: false
+tags: ["crypto"]
 description: ""
 ---
 Non-Fungible Tokens (NFT) are interesting, but there's a lot of confusion about the concept of *ownership*. If you buy a NFT, you are only buying the ownership of a pointer to a metadata (audio, video, etc..) stored somewhere (more likely a centralized server, only some use IPFS). But this pointed metadata can be counterfeit (e.g. the NFT could be a screenshot. And this happening often now), so you still need an additional way to prove the actual asset is legit, the "oracle problem". There is no solution at the moment.
