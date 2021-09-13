@@ -20,10 +20,10 @@ defaultExtension= "html"
 # hugo new command. "toml", "yaml", or "json"
 metaDataFormat= "toml"
 
-[taxonomies]
-  tag      = "tags"
-  category = "categories"
-  series   = "series"
+# [taxonomies]
+#   tag      = "tags"
+#   category = "categories"
+#   series   = "series"
 
 [params.main]
   enabled = true

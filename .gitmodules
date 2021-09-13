@@ -1,6 +1,0 @@
-[submodule "themes/hugo-theme-cactus"]
-	path = themes/cocoa-eh
-	url = https://github.com/monkeyWzr/hugo-theme-cactus.git
-[submodule "gruvhugo"]
-	path = gruvhugo
-	url = https://gitlab.com/avron/gruvhugo.git
